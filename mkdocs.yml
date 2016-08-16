@@ -1,0 +1,56 @@
+# Project information
+site_name: Leyden Creek Master Plan
+site_description: Authored by ICON Engineering for UDFCD
+site_author: ICON Engineering
+site_url: http://iconengineering.github.io/leyden-creek-master-plan/
+
+# Repository
+repo_name: GitHub
+repo_url: https://github.com/iconengineering/leyden-creek-master-plan
+
+
+# Copyright
+copyright: Copyright (c) 2016 ICON Engineering, Inc.
+
+# Page tree
+pages:
+  - Executive Summary: index.md
+  - Introduction: introduction.md
+  - Study Area Description: study-area-description.md
+  - Hydrologic Analysis: hydrologic-analysis.md
+  - Hydraulic Analysis: hydraulic-analysis.md
+  - Alternative Analysis: alternative-analysis.md
+ # - Recommended Plan: recommended-plan.md
+ # - Conceptual Design: conceptual-design.md
+
+# Documentation and theme
+theme_dir: '../mkdocs-material/material'
+extra_javascript:
+  - 'assets/js/jquery-2.2.4_min.js'
+  - 'assets/js/mapbox-gl.js'
+  - 'assets/js/map1.js'
+  - 'assets/js/map2.js'
+extra_css:
+  - 'assets/css/mapbox-gl.css'
+  - 'assets/css/map.css'
+
+# Options
+extra:
+  logo: assets/img/UDFCD_NEW.jpg
+  author:
+    github: iconengineering
+  palette:
+    primary: 'blue-grey'
+    accent: 'amber'
+  font:
+    text: 'Roboto'
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.footnotes
+  - superscript
+  - subscript
+  - codehilite(css_class=code)
+  - admonition
+  - toc:
+      permalink: '#'
