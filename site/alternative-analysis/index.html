@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
+    
+      
+        <title>Alternative Analysis - Leyden Creek Master Plan</title>
+      
+      
+      
+        <link rel="canonical" href="http://iconengineering.github.io/leyden-creek-master-plan/alternative-analysis/">
+      
+      
+        <meta name="author" content="ICON Engineering">
+      
+    
+    <meta property="og:url" content="http://iconengineering.github.io/leyden-creek-master-plan/alternative-analysis/">
+    <meta property="og:title" content="Leyden Creek Master Plan">
+    <meta property="og:image" content="http://iconengineering.github.io/leyden-creek-master-plan/alternative-analysis//../assets/img/UDFCD_NEW.jpg">
+    <meta name="apple-mobile-web-app-title" content="Leyden Creek Master Plan">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+      <link rel="apple-touch-icon" href="../assets/img/UDFCD_NEW.jpg">
+    
+    
+    <link rel="shortcut icon" type="image/x-icon" href="../None">
+    <link rel="icon" type="image/x-icon" href="../None">
+    <style>
+      @font-face {
+      	font-family: 'Icon';
+      	src: url('../assets/fonts/icon.eot?52m981');
+      	src: url('../assets/fonts/icon.eot?#iefix52m981')
+               format('embedded-opentype'),
+      		   url('../assets/fonts/icon.woff?52m981')
+               format('woff'),
+      		   url('../assets/fonts/icon.ttf?52m981')
+               format('truetype'),
+      		   url('../assets/fonts/icon.svg?52m981#icon')
+               format('svg');
+      	font-weight: normal;
+      	font-style: normal;
+      }
+    </style>
+    <link rel="stylesheet" href="../assets/stylesheets/application-f5966750d0.css">
+    
+      <link rel="stylesheet" href="../assets/stylesheets/palettes-09a40dd0dc.css">
+    
+    
+      
+      
+      
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,700|Ubuntu+Mono">
+      <style>
+        body, input {
+          font-family: 'Roboto', Helvetica, Arial, sans-serif;
+        }
+        pre, code {
+          font-family: 'Ubuntu Mono', 'Courier New', 'Courier', monospace;
+        }
+      </style>
+    
+    
+      <link rel="stylesheet" href="../assets/css/mapbox-gl.css">
+    
+      <link rel="stylesheet" href="../assets/css/map.css">
+    
+    <script src="../assets/javascripts/modernizr-fdb53174cc.js"></script>
+    
+  </head>
+  
+  
+  
+  <body class="palette-primary-blue-grey palette-accent-amber">
+    
+      
+      
+    
+    <div class="backdrop">
+      <div class="backdrop-paper"></div>
+    </div>
+    <input class="toggle" type="checkbox" id="toggle-drawer">
+    <input class="toggle" type="checkbox" id="toggle-search">
+    <label class="toggle-button overlay" for="toggle-drawer"></label>
+    <header class="header">
+      <nav aria-label="Header">
+  <div class="bar default">
+    <div class="button button-menu" role="button" aria-label="Menu">
+      <label class="toggle-button icon icon-menu" for="toggle-drawer">
+        <span></span>
+      </label>
+    </div>
+    <div class="stretch">
+      <div class="title">
+        
+          <span class="path">
+            
+          </span>
+        
+        Leyden Creek Master Plan <span class="subtitle">Alternative Analysis</span>
+      </div>
+    </div>
+    
+    
+      
+      <div class="button button-github" role="button" aria-label="GitHub">
+        <a href="https://github.com/iconengineering" title="@iconengineering on GitHub" target="_blank" class="toggle-button icon icon-github"></a>
+      </div>
+    
+    <div class="button button-search" role="button" aria-label="Search">
+      <label class="toggle-button icon icon-search" title="Search" for="toggle-search"></label>
+    </div>
+  </div>
+  <div class="bar search">
+    <div class="button button-close" role="button" aria-label="Close">
+      <label class="toggle-button icon icon-back" for="toggle-search"></label>
+    </div>
+    <div class="stretch">
+      <div class="field">
+        <input class="query" type="text" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false">
+      </div>
+    </div>
+    <div class="button button-reset" role="button" aria-label="Search">
+      <button class="toggle-button icon icon-close" id="reset-search"></button>
+    </div>
+  </div>
+</nav>
+    </header>
+    <main class="main">
+      
+      <div class="drawer">
+        <nav aria-label="Navigation">
+  
+  <a href="https://github.com/iconengineering/leyden-creek-master-plan" class="project">
+    <div class="banner">
+      
+        <div class="logo">
+          <img src="../assets/img/UDFCD_NEW.jpg">
+        </div>
+      
+      <div class="name">
+        <strong>
+          Leyden Creek Master Plan
+          <span class="version">
+            
+          </span>
+        </strong>
+        
+          <br>
+          iconengineering/leyden-creek-master-plan
+        
+      </div>
+    </div>
+  </a>
+  <div class="scrollable">
+    <div class="wrapper">
+      
+        <ul class="repo">
+          <li class="repo-download">
+            
+            <a href="https://github.com/iconengineering/leyden-creek-master-plan/archive/master.zip" target="_blank" title="Download" data-action="download">
+              <i class="icon icon-download"></i> Download
+            </a>
+          </li>
+          <li class="repo-stars">
+            <a href="https://github.com/iconengineering/leyden-creek-master-plan/stargazers" target="_blank" title="Stargazers" data-action="star">
+              <i class="icon icon-star"></i> Stars
+              <span class="count">&ndash;</span>
+            </a>
+          </li>
+        </ul>
+        <hr>
+      
+      <div class="toc">
+        <ul>
+          
+            
+  <li>
+    <a class="" title="Executive Summary" href="..">
+      Executive Summary
+    </a>
+    
+  </li>
+
+          
+            
+  <li>
+    <a class="" title="Introduction" href="../introduction/">
+      Introduction
+    </a>
+    
+  </li>
+
+          
+            
+  <li>
+    <a class="" title="Study Area Description" href="../study-area-description/">
+      Study Area Description
+    </a>
+    
+  </li>
+
+          
+            
+  <li>
+    <a class="" title="Hydrologic Analysis" href="../hydrologic-analysis/">
+      Hydrologic Analysis
+    </a>
+    
+  </li>
+
+          
+            
+  <li>
+    <a class="" title="Hydraulic Analysis" href="../hydraulic-analysis/">
+      Hydraulic Analysis
+    </a>
+    
+  </li>
+
+          
+            
+  <li>
+    <a class="current" title="Alternative Analysis" href="./">
+      Alternative Analysis
+    </a>
+    
+      
+        
+      
+      
+        <ul>
+          
+            <li class="anchor">
+              <a title="5.1 Alternative Development Process" href="#51-alternative-development-process">
+                5.1 Alternative Development Process
+              </a>
+            </li>
+          
+            <li class="anchor">
+              <a title="5.2 Criteria and Constraints" href="#52-criteria-and-constraints">
+                5.2 Criteria and Constraints
+              </a>
+            </li>
+          
+            <li class="anchor">
+              <a title="5.3 Alternative Categories" href="#53-alternative-categories">
+                5.3 Alternative Categories
+              </a>
+            </li>
+          
+            <li class="anchor">
+              <a title="5.4 Alternative Hydraulics" href="#54-alternative-hydraulics">
+                5.4 Alternative Hydraulics
+              </a>
+            </li>
+          
+            <li class="anchor">
+              <a title="5.5 Alternative Cost Estimates" href="#55-alternative-cost-estimates">
+                5.5 Alternative Cost Estimates
+              </a>
+            </li>
+          
+            <li class="anchor">
+              <a title="5.6 Alternative Plans" href="#56-alternative-plans">
+                5.6 Alternative Plans
+              </a>
+            </li>
+          
+            <li class="anchor">
+              <a title="5.7 Qualitative Evaluation Procedure" href="#57-qualitative-evaluation-procedure">
+                5.7 Qualitative Evaluation Procedure
+              </a>
+            </li>
+          
+        </ul>
+      
+    
+  </li>
+
+          
+        </ul>
+        
+          <hr>
+          <span class="section">The author</span>
+          <ul>
+            
+            
+              
+              <li>
+                <a href="https://github.com/iconengineering" target="_blank" title="@iconengineering on GitHub">
+                  @iconengineering on GitHub
+                </a>
+              </li>
+            
+          </ul>
+        
+      </div>
+    </div>
+  </div>
+</nav>
+      </div>
+      <article class="article">
+        <div class="wrapper">
+          
+          <h1 id="alternative-analysis">ALTERNATIVE ANALYSIS<a class="headerlink" href="#alternative-analysis" title="Permanent link">#</a></h1>
+<h2 id="51-alternative-development-process">5.1 Alternative Development Process<a class="headerlink" href="#51-alternative-development-process" title="Permanent link">#</a></h2>
+<p>Following the identification of problem areas, alternatives were
+developed in order to mitigate flooding potential and implement the
+project goals set forth by project sponsors and local stakeholders.</p>
+<p>Three main alternative categories were developed to address the problems
+identified in Section 4: Channel Conveyance, Channel Stability, and
+Crossing Improvements.</p>
+<p>Leyden Lake was also evaluated to restore the facility to contain the
+100-year event. The addition of alternate regional detention facilities
+were not considered beyond Leyden Lake. Alternatives were reviewed with
+project sponsors at periodic project meetings. A separate meeting was
+held with staff representing the Croke Canal.</p>
+<h2 id="52-criteria-and-constraints">5.2 Criteria and Constraints<a class="headerlink" href="#52-criteria-and-constraints" title="Permanent link">#</a></h2>
+<p>The design and evaluation of conceptual alternatives was based on the
+criteria set forth in the Jefferson County Design and Technical Criteria
+Storm Drainage Manual, Urban Storm Drainage Criteria Manual, and City of
+Arvada’s Engineering Code of Standards and Specifications.</p>
+<p>After discussion with project sponsors, it was determined that any major
+roadway crossing and each of the local road crossings in the City of
+Arvada would be sized to convey the 100-year discharge. The only local
+road crossing, West 75<sup>th</sup> Place in unincorporated Jefferson County,
+would be evaluated based on current county standards. The applicable
+county standards considered for West 75<sup>th</sup> Place in the <em>Jefferson
+County Design and Technical Criteria Storm Drainage Manual</em> states a
+10-year crossing, less than one foot of overtopping on the roadway, and
+a maximum headwater depth to culvert size ratio of 1.5.</p>
+<h2 id="53-alternative-categories">5.3 Alternative Categories<a class="headerlink" href="#53-alternative-categories" title="Permanent link">#</a></h2>
+<p>Problem areas within the Leyden Creek watershed fell into several
+categories. The categories that applied to multiple problem areas were:
+Channel Conveyance, Channel Stabilization, and Bridge/Culvert
+alternatives. There were also several categories that were unique to
+specific problem area including Culvert/Spill Structure for the canal
+crossings, and Detention Alternatives at Leyden Lake. An alternative
+feasibility matrix for each problem area can be seen in <em>Table 5‑1</em>.</p>
+<h4 id="531-channel-conveyance">5.3.1 Channel Conveyance<a class="headerlink" href="#531-channel-conveyance" title="Permanent link">#</a></h4>
+<p>Channel conveyance alternatives were developed in areas that were
+identified to pose flood hazards due to a lack in channel conveyance
+capacity. Increasing capacity in these areas will better manage the
+flood hazards surrounding buildings and other structures.</p>
+<h4 id="532-channel-stabilization">5.3.2 Channel Stabilization<a class="headerlink" href="#532-channel-stabilization" title="Permanent link">#</a></h4>
+<p>Channel stabilization alternatives were developed to address areas with
+potential for future channel degradation and bank erosion. Check
+structures have been proposed as a means to control future erosion along
+the drainageway. Design channel slopes of 0.6% upstream of Leyden Lake
+and 0.45% downstream of Leyden Lake were selected based on a combination
+of criteria set forth in <em>Urban Storm Drainage Criteria Manual</em> and
+recommendations for the project area based on previous reports.</p>
+<h4 id="533-bridge-culverts">5.3.3 Bridge / Culverts<a class="headerlink" href="#533-bridge-culverts" title="Permanent link">#</a></h4>
+<p>Through discussions with project sponsors, any major roadway crossings,
+and all roadway crossings within the City of Arvada were sized to convey
+the 100-year flow without overtopping the roadway. The crossing at West
+75<sup>th</sup> Place, within unincorporated Jefferson County would be evaluated
+based on county roadway crossing criteria.</p>
+<p>Ward Road, located in Reach 2, is planned to extend north from the
+intersection with West 72<sup>nd</sup> Avenue, crossing Leyden Creek between West
+75<sup>th</sup> Avenue and West 75<sup>th</sup> Place. The current conceptual design for
+Ward Road call for a six cell 10 ft. x 6 ft. RCBC crossing at Leyden
+Creek. Since planning for the Ward Road extension is proceeding
+independently from this project, separate design alternatives and
+project alternative costs have not been included with this plan. The
+Ward Road extension also includes extending the trail from Leyden Creek
+Park up to Alkire Street with a separate trail underpass for Ward Road,
+located south of the Ward Road and Leyden Creek crossing. The trail
+crosses underneath of Alkire Street at the proposed new intersection of
+Alkire Street and West 78<sup>th</sup> Circle, separate from Leyden Creek itself.</p>
+<p>For these reasons, the trail crossing culverts at the proposed Ward Road
+extension and Alkire Street have not been include in the project design
+alternatives, as these improvements are offline and in their current
+configuration not directly associated with the proposed Leyden Creek
+infrastructures needs. Conversely, recreational needs including a
+maintenance trail would be considered with the project design
+alternatives in areas such as Quaker Street and West 72md Avenue.</p>
+<h4 id="534-culvert-spill-structure">5.3.4 Culvert / Spill Structure<a class="headerlink" href="#534-culvert-spill-structure" title="Permanent link">#</a></h4>
+<p>Canal crossings were evaluated to develop alternatives to prevent the
+damage witnessed in the September 2013 flooding. Representatives for the
+canals were contacted to determine their interest in developing
+alternatives with the project team. A meeting was held with staff
+representing the Croke Canal discussing the preferred alternatives at
+the Leyden Creek crossing. Flow limiting structures were discussed to
+prevent exceeding the decreed flow of the Croke Canal downstream of the
+crossing. Since the Croke Canal requires two feet of freeboard, the
+project team decided to develop alternatives for Leyden Creek crossing
+underneath the existing Croke Canal. The City of Arvada did not express
+interest in having a purge control structure at the crossing so it was
+decided a passive weir structure was the best alternative for any type
+of flow limiting structure.</p>
+<p>The Farmers’ High Line Canal was discussed in relation to alternatives
+developed at Leyden Lake. The Farmers’ High Line Canal intercepts any
+flows passing over the Leyden Lake emergency spillway. If Leyden Lake
+was improved to a 100-year storage facility, there would be no impact on
+the Farmers’ High Line Canal, as the principal spillway passes
+underneath the canal.</p>
+<p>Plans for a new crossing of the Church Ditch at Leyden Creek are also
+underway, following the 2013 flood event. Similar to the Ward Road
+extension, no additional alternatives were developed for this location.</p>
+<h4 id="535-detention-alternative">5.3.5 Detention Alternative<a class="headerlink" href="#535-detention-alternative" title="Permanent link">#</a></h4>
+<p>Leyden Lake was evaluated to determine the necessary improvements to
+detain the 100-yr storm without overtopping the emergency spillway. The
+hydrologic benefits of this improvement were also discussed.</p>
+<h2 id="54-alternative-hydraulics">5.4 Alternative Hydraulics<a class="headerlink" href="#54-alternative-hydraulics" title="Permanent link">#</a></h2>
+<p>Hydraulic analyses were performed to evaluate the benefits and impact of
+each alternative. In general, channel conveyance was based on the normal
+depth sizes and shapes for cross-sectional areas required to convey the
+design discharges. The hydraulic analysis was performed in accordance
+with UDFCD, City of Arvada, and Jefferson County criteria. Each
+alternative was analyzed separately and inserted into the existing
+conditions HEC-RAS v4.1.0 model to gage its impact on the floodplain.</p>
+<p>Sizing for roadway box culverts were estimated using the nomographs
+found in the USDCM.</p>
+<p>EPA SWMM was used to evaluate the hydrology alternative of Leyden Lake.</p>
+<h2 id="55-alternative-cost-estimates">5.5 Alternative Cost Estimates<a class="headerlink" href="#55-alternative-cost-estimates" title="Permanent link">#</a></h2>
+<p>Cost estimates for alternatives were developed using UDFCD’s master
+planning cost estimating spreadsheet UD-MP COST, version 2.2. 2012 unit
+costs values were adjusted to present value using the current Colorado
+Construction Cost Index report. An inflation rate of 1.0804 was used to
+adjust unit costs. A summary of unit costs can be found in <em>APPENDIX C –
+Hydraulic Analysis</em>.</p>
+<p>Effective interest rate was estimated to be 1.50%. This assumption was
+made based upon current discount rates from the Federal Reserve Discount
+Window and inflation rates published by the US government. These figures
+can be found in <em>APPENDIX C – Hydraulic Analysis</em>.</p>
+<p>Operation and Maintenance was also included within the UD MP Cost
+worksheet. Culvert maintenance was assumed to occur once every two
+years, with hydraulic structure and channel maintenance performed once
+every five years.</p>
+<p>Right of way easement costs were calculated using data from the
+Jefferson County Assessor’s Office. The easement value was proportioned
+from the total assessed property value. If an easement required more
+than 50 percent of the property, the entire assessed value was used in
+the easement cost.</p>
+<p>Other costs were calculated as a percent of Capital Improvement Costs,
+such as Engineering, Legal/Administrative, Contract
+Administration/Construction Management, and Contingency. No alterations
+to the default values provided by the UD-MP Cost spreadsheet were made
+to these items.</p>
+<p>Table ‑: Alternative Pre-Screening Matrix</p>
+<h2 id="56-alternative-plans">5.6 Alternative Plans<a class="headerlink" href="#56-alternative-plans" title="Permanent link">#</a></h2>
+<p>Several different alternative plans were developed to mitigate problem
+areas throughout the watershed. One alternative plan, Minimum Crossing
+Improvement and Maintenance Alternatives, improves all roadway crossings
+to meet current jurisdictional criteria. The second alternative plan,
+100-year Conveyance Alternative, improves roadway crossings to convey
+100-year flows at all locations and increases channel conveyance
+capacity in problem areas. Isolated alternatives were also evaluated for
+detention, and slope stabilization. A summary of alternative cost
+estimates can be seen in <em>Table 5‑2</em> through <em>Table 5‑4</em>.</p>
+<h4 id="561-reach-1">5.6.1 Reach 1<a class="headerlink" href="#561-reach-1" title="Permanent link">#</a></h4>
+<p>Upstream of the confluence with Ralston Creek to Simms Street, no
+alternatives were developed since no flood hazards were identified in
+this area. The roadway crossing at Simms Street has adequate capacity to
+convey the 100-yr design discharge.</p>
+<p>Upstream of Simms Street, alternatives were developed to address the
+overtopping at West 72<sup>nd</sup> Avenue and flooding within the Woodland
+Valley Filing No. 3 subdivision along with the undersized roadway
+crossing at West 72<sup>nd</sup> Avenue. Both alternatives address the inundation
+of structures caused by the split flow at West 72<sup>nd</sup> Avenue.</p>
+<h4 id="plan-1-minimum-crossing-improvement-and-maintenance-alternative">Plan 1: Minimum Crossing Improvement and Maintenance Alternative<a class="headerlink" href="#plan-1-minimum-crossing-improvement-and-maintenance-alternative" title="Permanent link">#</a></h4>
+<p>This alternative will divert flows upstream of West 72<sup>nd</sup> Avenue using
+a 11 ft. x 6 ft. RCBC. This culvert will continue east along West 72<sup>nd</sup>
+Avenue, and south through the First Church of Arvada’s parking lot,
+prior to discharging back into Leyden Creek just upstream of the Simms
+Street crossing. The RCBC is sized for approximately 500 cfs, the flow
+estimated to be beyond the current channel capacity downstream of West
+72<sup>nd</sup> Avenue. West 72<sup>nd</sup> Avenue will also be increased in size to a 70
+ft. bridge to convey the remaining 1657 cfs across the roadway.</p>
+<h4 id="plan-2-100-year-conveyance-alternative">Plan 2: 100-year Conveyance Alternative<a class="headerlink" href="#plan-2-100-year-conveyance-alternative" title="Permanent link">#</a></h4>
+<p>The 100-yr Conveyance Alternative proposes to improve the roadway
+crossing and existing channel to convey the entire 100-year design
+discharge along the existing flowpath. This alternative requires
+acquiring right of way easements in several properties in the Woodland
+Valley Filing No. 3 subdivision as the existing channel doesn’t have the
+capacity to convey the 100-year design discharge. The required
+right-of-way for these improvements is approximately 90 feet. The West
+72<sup>nd</sup> Avenue Bridge will be increased to a 90 ft. bridge to convey the
+entire 100-year discharge of 2157 cfs. Acquiring the right-of-way for
+the proposed channel would also increase the area available to
+incorporate a future trail and trail underpass, between West 72<sup>nd</sup>
+Avenue and the existing trail downstream of Simms Street.</p>
+<p>Upstream of West 72<sup>nd</sup> Avenue, in the Woodland Valley No. 7
+subdivision, increasing the existing channel conveyance capacity is
+proposed to eliminate the right bank spill flow that currently impacts
+residential homes.</p>
+<h4 id="562-reach-2">5.6.2 Reach 2<a class="headerlink" href="#562-reach-2" title="Permanent link">#</a></h4>
+<p>The alternatives developed for Reach 2 proposed to mitigate the
+undersized roadway crossings at West 75<sup>th</sup> Place and Alkire Street
+designed to meet criteria identified in Section <em>5.3.3 Bridge /
+Culverts</em>. There are several structures within the regulatory floodplain
+and additional structures in the shallow flooding areas. All
+alternatives developed for Reach 2 eliminate the shallow flooding that
+flows across Alkire Street.</p>
+<h4 id="plan-1-minimum-crossing-improvement-and-maintenance-alternative_1">Plan 1: Minimum Crossing Improvement and Maintenance Alternative<a class="headerlink" href="#plan-1-minimum-crossing-improvement-and-maintenance-alternative_1" title="Permanent link">#</a></h4>
+<p>Double 8 ft. x 4 ft. RCBC’s are proposed beneath West 75<sup>th</sup> Place to
+increase the capacity of the crossing to meet the Jefferson County
+criteria. This plan would not be impacted by the Ward Road expansion
+since the proposed improvements tie into the existing channel upstream
+of the proposed Ward Road crossing.</p>
+<p>At Alkire Street, the existing crossing is proposed to be improved as
+two 12 ft. x 5 ft. RCBC’s. Channel work is proposed at both locations to
+lower the channel upstream and downstream of each crossing. At Alkire
+Street, the existing water features upstream of the culvert crossing
+will require some degree of reconstruction to accommodate the proposed
+channel grades.</p>
+<h4 id="plan-2-100-year-conveyance-alternative_1">Plan 2: 100-year Conveyance Alternative<a class="headerlink" href="#plan-2-100-year-conveyance-alternative_1" title="Permanent link">#</a></h4>
+<p>This alternative proposes to convey the 100-yr discharge from Alkire
+Street to downstream of West 75<sup>th</sup> Place within a new design channel,
+paralleling the existing channel alignment. The new channel will
+mitigate 100-year floodplain impacts at existing structures along this
+reach and convey 100-year flood flows below both Alkire Street and West
+75<sup>th</sup> Place. The roadway crossing at West 75<sup>th</sup> Place is proposed to
+be improved to double 14 ft. x 5 ft. RCBC to convey the 100-yr discharge
+under the roadway. Additional consideration would be needed during
+conceptual design to address the proposed channel improvements near the
+Ward Road expansion.</p>
+<h4 id="plan-3-combination-alternate">Plan 3: Combination Alternate<a class="headerlink" href="#plan-3-combination-alternate" title="Permanent link">#</a></h4>
+<p>A third alternative was developed incorporating aspects of both Plan 1
+and Plan 2. The proposed crossing structure at Alkire Street and the
+proposed channel from Plan 2 are carried forward to Plan 3, but the
+crossing at West 75<sup>th</sup> Place is sized to meet the minimum
+jurisdictional criteria conveying the 10-year discharge. By downsizing
+the culvert at West 75<sup>th</sup> Place to meet the minimum local road
+jurisdictional criteria, the proposed channel downstream of West 75<sup>th</sup>
+Place requires less disturbance to property owners by tying into the
+existing channel grade in less distance than Plan 2. Similar to Plan 1,
+the future Ward Road crossing with Leyden Creek would not be impacted by
+this alternative.</p>
+<h4 id="563-reach-3">5.6.3 Reach 3<a class="headerlink" href="#563-reach-3" title="Permanent link">#</a></h4>
+<h4 id="plan-1-minimum-crossing-improvement-and-maintenance-alternative_2">Plan 1: Minimum Crossing Improvement and Maintenance Alternative<a class="headerlink" href="#plan-1-minimum-crossing-improvement-and-maintenance-alternative_2" title="Permanent link">#</a></h4>
+<p>Plan 1 proposes to convey the 10-yr discharge under the Croke Canal via
+two 8 ft. x 3 ft. RCBC’s. Any flows that exceeded the 10-yr discharge
+would comingle with the decreed Croke Canal flow and overflow back into
+Leyden Creek through a passive weir spillway. The spillway on the
+downstream embankment diverts any flows in excess of the decreed flow
+back into Leyden Creek. Formalization of the passive weir structure will
+need to meet canal district approval.</p>
+<p>At Indiana Street, a 10 ft. x 6 ft. RCBC is proposed to convey the
+100-yr discharge below the roadway.</p>
+<h4 id="plan-2-100-year-conveyance-alternative_2">Plan 2: 100-year Conveyance Alternative<a class="headerlink" href="#plan-2-100-year-conveyance-alternative_2" title="Permanent link">#</a></h4>
+<p>To address flows with the potential to spill from Leyden Creek, west of
+Cameo Estates, an overflow channel has been proposed to add overall
+floodplain capacity. Low frequency flows would continue along the
+existing Leyden Creek alignment while the overflow diversion channel
+would convey flows with potential to cause flooding away from the
+possible flooding areas.</p>
+<p>At the Croke Canal crossing (3) 10 ft. x 3 ft. RCBC’s are proposed to
+convey the entire 100-yr discharge under the Croke Canal. By conveying
+the 100-yr discharge under the canal, the comingling of Leyden Creek and
+the Croke Canal would be minimized, eliminating the need for the weir
+spillway.</p>
+<p>The 100-year crossing at Indiana Street proposed in Plan 1 is carried
+forward to this alternative.</p>
+<h4 id="plan-3-combination-alternate_1">Plan 3: Combination Alternate<a class="headerlink" href="#plan-3-combination-alternate_1" title="Permanent link">#</a></h4>
+<p>Plan 3 proposes to convey the 100-yr discharge under the Croke Canal
+with (3) 10 ft. x 3 ft. RCBC as proposed in Plan 2 in addition to the
+passive weir spillway. By spilling any flows in excess of the 100-year
+discharge at this location, the canal downstream is protected by
+limiting the canal to the decreed flow. The diversion channel proposed
+downstream of the Croke Canal in Plan 3 is increased in size to convey
+events larger than the 100-year, such as the event in September 2013.
+The channel was sized to accommodate the peak flow witnessed downstream
+of Leyden Lake in September 2013, reported in the Water &amp; Earth
+Technologies report of 1,351 cfs. This flow is more than double the
+100-yr design discharge of 665 cfs at this location.</p>
+<p>Although 100-year flood hazards have not been identified for the Cameo
+Estates No. 1 subdivision, the flooding in September 2013 impacted many
+homes in this area. Overbank grading is proposed south of Cameo Estates
+to add capacity to the current floodplain for flows in excess of the
+100-year event.</p>
+<h4 id="564-reach-4">5.6.4 Reach 4<a class="headerlink" href="#564-reach-4" title="Permanent link">#</a></h4>
+<p>No alternatives were developed for the Leyden Creek crossing with the
+Church Ditch. Following the breach of the canal in September 2013,
+Ecological Resource Consultants, Inc. and SM&amp;RC Structural Engineers
+Inc. prepared construction drawings for a new crossing to be
+constructed.</p>
+<h4 id="plan-1-minimum-crossing-improvement-and-maintenance-alternative_3">Plan 1: Minimum Crossing Improvement and Maintenance Alternative<a class="headerlink" href="#plan-1-minimum-crossing-improvement-and-maintenance-alternative_3" title="Permanent link">#</a></h4>
+<p>To convey the 100-year design discharge under Quaker Street, five 10 ft.
+x 8 ft. RCBC’s are proposed to convey the flow with no overtopping.
+Upstream in Pattridge Open Space, check structures implemented
+throughout this reach would stabilize the longitudinal channel slope
+preventing any further channel degradation. At West 82<sup>nd</sup> Avenue, a
+five cell 10 ft. x 5 ft. RCBC crossing is proposed to prevent
+overtopping of the roadway.</p>
+<p>At Blue Mountain Road, alternatives were developed to prevent
+overtopping during the 100-yr design storm. Plan 1 proposes to
+reconstruct and elevate Blue Mountain Road allowing two 8 ft. x 6 ft.
+RCBC’s to be installed under Blue Mountain Road along the historic flow
+path. One of the RCBC would replace the existing culvert with the other
+structure located further southeast to collect flows that overtop the
+Union Pacific Railroad embankment. A grouted boulder structure is
+proposed to divert the overtopping railroad flows into the proposed
+RCBC.</p>
+<h4 id="plan-2-100-year-conveyance-alternative_3">Plan 2: 100-year Conveyance Alternative<a class="headerlink" href="#plan-2-100-year-conveyance-alternative_3" title="Permanent link">#</a></h4>
+<p>This plan includes an alternative to detain the 100-year flows in Leyden
+Lake without overtopping of the emergency spillway. This alternative
+would require raising the spillway crest and dam embankment
+approximately one foot. Although these improvements reduce the discharge
+out of Leyden Lake from 665 cfs to 224 cfs, this alternative had no
+impact on the sizes of roadway crossings downstream of Leyden Lake.
+Basins tributary to the Indiana Street crossing produce a peak flow of
+663 cfs, independent of any improvements made to Leyden Lake.</p>
+<p>By implementing the crossing structure at Quaker Street from Plan 1 in
+addition to increasing the channel capacity throughout Leyden Townsite,
+the floodplain can be removed from structures not mitigated with Plan 1.</p>
+<p>A five cell 10 ft. x 5 ft. RCBC will convey the 100-year discharge under
+West 82<sup>nd</sup> Avenue. A new channel alignment is proposed removing the
+existing trailhead from the floodplain.</p>
+<p>At Blue Mountain Road, Plan 2 proposes to eliminate all overtopping of
+the railroad embankment by installing a second 72” CMP pipe through the
+railroad embankment. On the downstream side of the embankment two 8 ft.
+x 6 ft. RCBC will convey the flow under Blue Mountain Road.</p>
+<p>Table ‑: Minimum Crossing Improvement and Maintenance Cost Estimate Summary</p>
+<p>Table ‑: 100-yr Conveyance Cost Estimate Summary</p>
+<p>Table ‑: Combination Alternative Cost Estimate Summary</p>
+<p>CI&amp;M 1</p>
+<p>Figure ‑: Alternative Plans: Minimum Crossing Improvements and Maintenance</p>
+<p>Crossing Improvement 2</p>
+<p>Figure ‑: Alternative Plans: 100-yr Conveyance</p>
+<p>100yr conveyance 2</p>
+<p>Figure ‑: Alternative Plans: Combination Alternative</p>
+<h2 id="57-qualitative-evaluation-procedure">5.7 Qualitative Evaluation Procedure<a class="headerlink" href="#57-qualitative-evaluation-procedure" title="Permanent link">#</a></h2>
+<p>A benefit cost analysis was completed for the Leyden Townsite, Indiana,
+Alkire, and Woodland Valley No. 7 proposed project locations. FEMA’s
+Benefit Cost Analysis (BCA) Tool, version 5.0.0.0, was used to calculate
+flood mitigation benefits for structures within the project areas.
+Structure size and type were taken from the Jefferson County parcel
+data. First floor elevations were estimated from the 1ft project
+mapping. Additional assumptions used in the BCA calculations include:</p>
+<ul>
+<li>
+<p>Mitigated 10-, 50-, and 100-year water surface elevation set to 2.2, 2.1, and 2.0 feet below first floor elevation respectively.</p>
+</li>
+<li>
+<p>Mitigated 500-year water surface elevation set to 0.5 feet lower than pre-mitigation elevation.</p>
+</li>
+<li>
+<p>Building replacement value (BRV) was set at \$117/sf for residential structures and reduced by 50%, or \$60/sf for barns and greenhouses.</p>
+</li>
+<li>
+<p>Project useful life set at 30 years for all projects, per culvert projects using BCA guidelines.</p>
+</li>
+<li>
+<p>Standard FEMA library damage curves were used for each structure.</p>
+</li>
+<li>
+<p>Based on a comparison of reported structure size and aerial footprint size, all structures were assumed to not have basements.</p>
+</li>
+<li>
+<p>All foundations were assumed to be slab on grade.</p>
+</li>
+<li>
+<p>Pre mitigation water surface elevations, channel elevations, and discharges taken from effective hydraulic models and interpolated for structures between cross sections as needed.</p>
+</li>
+</ul>
+<p>Present worth of damages were totaled for the structures impacted at
+each proposed project to determine benefits of each project. The total
+benefit was then divided by the project cost in order to estimate the
+benefit cost ratio. The total benefit values can be seen in <em>Table 5‑5</em>.
+The resulting benefit cost ratio for each proposed project is included
+in <em>Table 5‑6.</em></p>
+<p>While none of the proposed projects yield a benefit-cost ratio close to
+1.0, implementing these master plan alternatives reflect intangible
+benefits associated with mitigating road overtopping, providing a
+stabilized stream corridor, and providing maintenance access along the
+drainageways.</p>
+<p>Table ‑: Improvement Benefits</p>
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th align="right">Benefit</th>
+<th>Structure</th>
+<th align="right">Existing Damages</th>
+<th align="right">Future Damages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Leyden Townsite - Minimum Crossing Improvement</td>
+<td align="right">$6,726</td>
+<td>8133 1st Avenue</td>
+<td align="right">$8,873</td>
+<td align="right">$2,147</td>
+</tr>
+<tr>
+<td>8161 3rd Avenue         \$10,820           \$10,820         \$0</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>8168 2nd Avenue         \$4,843            \$4,843          \$0</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>8169 Quaker Street      \$57,596           \$6,851          \$50,745</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>8173 1st Avenue         \$17,408           \$17,408         \$0</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>8178 2nd Avenue         \$4,382            \$4,382          \$0</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Total                                                     \$103,922               \$46,451           \$57,471</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Leyden Townsite - 100-yr Conveyance Culvert and Channel   8133 1st Avenue         \$8,842            \$2,869          \$5,973</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>8161 3rd Avenue         \$10,820           \$1,905          \$8,915</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>8168 2nd Avenue         \$4,843            \$1,803          \$3,040</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>8169 Quaker Street      \$57,596           \$6,851          \$50,745</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>8173 1st Avenue         \$6,316            \$1,694          \$4,622</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>8178 2nd Avenue         \$4,382            \$2,429          \$1,953</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Total                                                     \$92,799                \$17,551           \$75,248</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Indiana Street - Minimum Crossing Improvement             7861 Indiana Street     \$147,584          \$4,189          \$143,395</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7871 Indiana Street     \$105,243          \$2,989          \$102,254</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Total                                                     \$252,827               \$7,178            \$245,649</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Alkire - 100-yr Conveyance                                13023 W. 75th Pl.       \$5,357            \$319            \$5,038</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>13023 W. 75th Pl. (B)   \$1,706            \$29             \$1,677</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>13083 W. 75th Pl.       \$13,596           \$3,058          \$10,538</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7567 Wright Ct.         \$0                \$0              \$0</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7580 Alkire             \$17,497           \$4,347          \$13,150</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7600 Alkire             \$14,625           \$4,474          \$10,151</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7600 Alkire (B)         \$175,522          \$76,273         \$99,249</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7670 Alkire (RES)       \$22,189           \$4,847          \$17,342</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7670 Alkire St.         \$115,677          \$48,960         \$66,717</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7700 Alkire St.         \$24,663           \$5,612          \$19,051</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Total                                                     \$390,832               \$147,919          \$242,913</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Woodland Valley No. 7 - 100-yr Conveyance                 7278 Union Ct.          \$8,576            \$21             \$8,555</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7286 Union Ct.          \$8,576            \$21             \$8,555</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7289 Union Ct.          \$2,459            \$1,264          \$1,195</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7294 Urban Dr.          \$293              \$134            \$159</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>7300 Urban Dr.          \$9,141            \$28             \$9,113</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Total                                                     \$29,045                \$1,468            \$27,577</td>
+<td align="right"></td>
+<td></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+</tbody>
+</table>
+<p>Table ‑: Benefit-Cost Analysis Summary</p>
+          <aside class="copyright" role="note">
+            
+              Copyright (c) 2016 ICON Engineering, Inc. &ndash;
+            
+            Documentation built with
+            <a href="http://www.mkdocs.org" target="_blank">MkDocs</a>
+            using the
+            <a href="http://squidfunk.github.io/mkdocs-material/" target="_blank">
+              Material
+            </a>
+            theme.
+          </aside>
+          
+            <footer class="footer">
+              
+  <nav class="pagination" aria-label="Footer">
+    <div class="previous">
+      
+        <a href="../hydraulic-analysis/" title="Hydraulic Analysis">
+          <span class="direction">
+            Previous
+          </span>
+          <div class="page">
+            <div class="button button-previous" role="button" aria-label="Previous">
+              <i class="icon icon-back"></i>
+            </div>
+            <div class="stretch">
+              <div class="title">
+                Hydraulic Analysis
+              </div>
+            </div>
+          </div>
+        </a>
+      
+    </div>
+    <div class="next">
+      
+    </div>
+  </nav>
+
+            </footer>
+          
+        </div>
+      </article>
+      <div class="results" role="status" aria-live="polite">
+        <div class="scrollable">
+          <div class="wrapper">
+            <div class="meta"></div>
+            <div class="list"></div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <script>
+      var base_url = '..';
+      var repo_id  = 'iconengineering/leyden-creek-master-plan';
+    </script>
+    <script src="../assets/javascripts/application-dfb6964a49.js"></script>
+    
+      <script src="../assets/js/jquery-2.2.4_min.js"></script>
+    
+      <script src="../assets/js/mapbox-gl.js"></script>
+    
+      <script src="../assets/js/map1.js"></script>
+    
+      <script src="../assets/js/map2.js"></script>
+    
+    
+  </body>
+</html>
