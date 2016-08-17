@@ -53,14 +53,15 @@
       	font-style: normal;
       }
     </style>
-    <link rel="stylesheet" href="{{ base_url }}/assets/stylesheets/application-f5966750d0.css">
+    <link rel="stylesheet" href="{{ base_url }}/assets/stylesheets/application-432ef6ffde.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
     {% if config.extra.palette %}
-      <link rel="stylesheet" href="{{ base_url }}/assets/stylesheets/palettes-09a40dd0dc.css">
+      <link rel="stylesheet" href="{{ base_url }}/assets/stylesheets/palettes-d790dcf0d5.css">
     {% endif %}
     {% if config.extra.font != "none" %}
       {% set text = config.extra.get("font", {}).text | default("Ubuntu") %}
       {% set code = config.extra.get("font", {}).code | default("Ubuntu Mono") %}
-      {% set font = text + ':400,700|' + code | replace(' ', '+') %}
+      {% set font = text + ':300,400,500,700|' + code | replace(' ', '+') %}
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}">
       <style>
         body, input {
@@ -74,7 +75,7 @@
     {% for path in extra_css %}
       <link rel="stylesheet" href="{{ path }}">
     {% endfor %}
-    <script src="{{ base_url }}/assets/javascripts/modernizr-fdb53174cc.js"></script>
+    <script src="{{ base_url }}/assets/javascripts/modernizr-4a5cc7e01e.js"></script>
     {% block extrahead %}{% endblock %}
   </head>
   {% set palette = config.extra.get("palette", {}) %}
