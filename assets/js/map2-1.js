@@ -5,20 +5,19 @@ $( document ).ready(function() {
       container: 'figure2-1', // container id
       style: 'mapbox://styles/mapbox/streets-v9', //stylesheet location
       center: [-104.9, 39.75], // starting position
-      zoom: 8.2 // starting zoom
+      zoom: 8.2, // starting zoom
+      interactive: false
   });
 
   map.on('load', function () {
 
-  	var url = 'https://cdn.rawgit.com/ebendennis/3a11fc00145d91a5e253c1d1eec1713a/raw/27bc26773d6a3dd4445aad1972a746ca090ed74b/leydenBounds.geojson';
-
   	map.addSource('bounds', {
         type: 'geojson',
-        "data": url
+        "data": '../assets/js/geojson/leydenBounds.geojson'
     });
     map.addSource('district', {
         type: 'geojson',
-        "data": '../assets/js/districtBounds.geojson'
+        "data": '../assets/js/geojson/districtBounds.geojson'
     });
     map.addLayer({
         'id': 'districtBounds',

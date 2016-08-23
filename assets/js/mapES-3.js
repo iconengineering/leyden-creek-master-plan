@@ -33,7 +33,7 @@ $( document ).ready(function() {
     });
   	map.addSource('schematic', {
         type: 'geojson',
-        "data": 'assets/js/leydenSchematic.geojson'
+        "data": 'assets/js/geojson/leydenSchematic.geojson'
     });
     map.addLayer({
         'id': 'schematic-hover',
