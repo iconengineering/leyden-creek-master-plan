@@ -10,7 +10,7 @@ $( document ).ready(function() {
   });
 
   map.on('load', function () {
-
+    
   	map.addSource('bounds', {
         type: 'geojson',
         "data": '../assets/js/geojson/leydenBounds.geojson'
