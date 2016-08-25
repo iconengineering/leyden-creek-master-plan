@@ -1,4 +1,4 @@
-# HYDROLOGIC ANALYSIS
+# Hydrologic Analysis
 
 ## 3.1 Overview
 
@@ -46,17 +46,25 @@ provided in the previous studies, were determined from Figures RA-1,
 RA-2, and RA-4 (USDCM). Areal adjustments were not applied since only a
 minor portion of the watershed exceeded the 10 square mile threshold
 needed for adjustment. A summary of one-hour rainfall depths can be
-found below in *Table 3-1*.
+found below in Table 3-1.
 
-Complete rainfall distributions are provided in *APPENDIX B - Hydrologic
-Analysis*
+Complete rainfall distributions are provided in [*APPENDIX B - Hydrologic Analysis*](#).
 
-Table -: 1-hr Rainfall Depths
+###### Table 3-1 : 1-hr Rainfall Depths
+
+| Return Period | 1 Hour Rainfall Depth (in) |
+|:--------------|---------------------------:|
+| 2-yr          | 1.04                       |
+| 5-yr          | 1.45                       |
+| 10-yr         | 1.75                       |
+| 25-yr         | 2.05                       |
+| 50-yr         | 2.40                       |
+| 100-yr        | 2.65                       |
 
 ## 3.3 Subwatershed Characteristics
 
 Subwatershed characteristics are summarized in the CUHP input table and
-subwatershed figure located in *APPENDIX B - Hydrologic Analysis*
+subwatershed figure located in [*APPENDIX B - Hydrologic Analysis*](#).
 
 #### 3.3.1 Subwatershed Delineation
 
@@ -74,8 +82,8 @@ delineation.
 #### 3.3.2 Watershed Imperviousness
 
 Imperviousness for each subwatershed was estimated from a GIS based
-interpretation of land use and zoning information described in Section
-*2.2 Land Use*.
+interpretation of land use and zoning information described in
+[Section 2.2 Land Use](/study-area-description/#22-land-use).
 
 #### 3.3.3 Length, Centroid Distance, Slope
 
@@ -108,7 +116,7 @@ and parameters for these basins were adjusted accordingly.
 
 ## 3.4 Hydrograph Routing
 
-#### 3.4.1 Manning’s n coefficient
+#### 3.4.1 Manning’s n Coefficient
 
 Each hydraulic Manning’s n roughness coefficient value was selected
 using Table MD-1 from USDCM. Following UDFCD guidance the values were
@@ -119,8 +127,7 @@ then increased by 25% to better represent modeling conditions.
 Each conveyance element was determined by examining the contour data and
 comparing to previous studies. Storm sewers sizes and alignments were
 modeled based on the City of Arvada GIS files. A SWMM routing map and a
-SWMM schematic figure are included in *APPENDIX B - Hydrologic
-Analysis*.
+SWMM schematic figure are included in [*APPENDIX B - Hydrologic Analysis*](#).
 
 #### 3.4.3 Detention Facilities
 
@@ -133,7 +140,7 @@ each facility were determined from the project topographic mapping.
 Release rates were developed from orifice and weir calculations
 reflecting the existing outlet structure configurations. Storage and
 discharge curves for the four detention facilities are provided in
-*APPENDIX B - Hydrologic Analysis*
+[*APPENDIX B - Hydrologic Analysis*](#).
 
 Leyden Lake was examined in further detail due to past discrepancies in
 the spillway elevation. The City of Arvada conducted a survey to
@@ -142,7 +149,7 @@ Dam As-Built drawings and project mapping. A conversion value of +2.2
 feet was provided by Arvada to convert from the City of Arvada datum to
 the project datum, NAVD 88. As-built elevations from the dam were
 adjusted to the project datum by adding 2.9 feet. Datum conversion
-information is included in *APPENDIX B - Hydrologic Analysis*.
+information is included in [*APPENDIX B - Hydrologic Analysis*](#).
 
 ## 3.5 Previous Studies
 
@@ -171,8 +178,8 @@ watershed and variations in sub-watershed routing.
 
 ## 3.7 Results of Analysis
 
-The results of the analysis are presented in *Table 3-2*. As noted
-above, results compare well with past studies prepared for the UDFCD and
+The results of the analysis are presented in [Table 3-2](#table-3-2-previous-studies-reconciliation-100-yr-flows).
+As noted above, results compare well with past studies prepared for the UDFCD and
 adopted by FEMA. Increased discharges can be correlated with increases
 in watershed imperviousness and variations in sub-watershed routing.
 
@@ -200,10 +207,42 @@ in basins that had higher impervious values.
 
 Peak flow and runoff volume tables are included for both existing and
 future conditions for all design points, and all frequencies in
-*APPENDIX B - Hydrologic Analysis*. Hydrographs and peak flow profiles
-are also provided in *APPENDIX B - Hydrologic Analysis.*
+[*APPENDIX B - Hydrologic Analysis*](#).. Hydrographs and peak flow profiles
+are also provided in [*APPENDIX B - Hydrologic Analysis*](#).
 
-Table -: Previous Studies Reconciliation (100 yr. Flows)
+###### Table 3-2 : Previous Studies Reconciliation (100 yr. Flows)
 
-Table -: Summary of Peak Flows
+|                                |                   | FIS (1977 MDP)    |               | 2004 Boyle FHAD   |               | 2014 Leyden Creek MDP |                              |                                 |
+|--------------------------------|-------------------|-------------------|---------------|-------------------|---------------|-----------------------|------------------------------|---------------------------------|
+|                                |                   | **Drainage Area** | **Discharge** | **Drainage Area** | **Discharge** | **Drainage Area**     | **Ex. Conditions Discharge** | **Future Conditions Discharge** |
+| **Design Point**               | **SWMM Junction** | **(sq. mi)**      | **(cfs)**     | **(sq. mi)**      | **(cfs)**     | **(sq. mi)**          | **(cfs)**                    | **(cfs)**                       |
+| Confluence with Ralston Creek  | RalstonCreek      | --                | --            | 11.89             | 2465          | 11.78                 | 2057                         | 2171                            |
+| Simms Street                   | 101               | 11.80             | 2456          | 11.89             | 2456          | 11.72                 | 2043                         | 2157                            |
+| W 72nd Avenue                  | 102               | --                | --            | 11.74             | 2456          | 11.57                 | 1973                         | 2083                            |
+| W 75th Place                   | 109               | --                | --            | 10.72             | 1519          | 10.58                 | 1330                         | 1416                            |
+| Alkire Street                  | 202               | --                | --            | 10.21             | 1035          | 10.33                 | 1175                         | 1249                            |
+| Indiana Street/Croke Canal     | 301               | --                | --            | 9.26              | 372           | 9.62                  | 615                          | 665                             |
+| Below Leyden Lake              | 351               | 9.00              | 373           | 9.16              | 373           | 9.19                  | 333                          | 550                             |
+| Above Leyden Lake              | 401               | 9.00              | 3750          | 9.16              | 4081          | 9.19                  | 4975                         | 5532                            |
+| Leyden Crossing Church Ditch   | 403               | --                | --            | --                | --            | 8.69                  | 4855                         | 5380                            |
+| Quaker Street                  | 404               | --                | --            | --                | --            | 8.42                  | 4713                         | 5212                            |
+| Leyden Crossing 82nd Ave       | 412               | --                | --            | --                | --            | 4.52                  | 2371                         | 2453                            |
+| At Foothills Road              | 413               | 4.20              | 3300          | 4.18              | 3225          | 4.02                  | 2068                         | 2136                            |
+
+###### Table 3-3 : Summary of Peak Flows
+
+| Design Point                  | ICON Junction | Drainage Area (sq. mile) | Ex. 2-yr | Ex. 5-yr | Ex. 10-yr | Ex. 25-yr | Ex. 50-yr | Ex. 100-yr | Future 2-yr | Future 5-yr | Future 10-yr | Future 25-yr | Future 50-yr | Future 100-yr |
+|:------------------------------|:--------------|-------------------------:|---------:|---------:|----------:|----------:|----------:|-----------:|------------:|------------:|-------------:|-------------:|-------------:|--------------:|
+| Confluence with Ralston Creek | Ralston Creek | 11.78                    | 229      | 506      | 759       | 1203      | 1636      | 2057       | 229         | 538         | 818          | 1282         | 1733         | 2171          |
+| Simms Street                  | 101           | 11.72                    | 221      | 487      | 750       | 1195      | 1624      | 2043       | 221         | 533         | 810          | 1274         | 1721         | 2157          |
+| W 72nd Avenue                 | 102           | 11.57                    | 195      | 466      | 723       | 1163      | 1572      | 1973       | 195         | 516         | 781          | 1239         | 1666         | 2083          |
+| W 75th Place                  | 109           | 10.58                    | 119      | 306      | 466       | 802       | 1070      | 1330       | 167         | 347         | 520          | 867          | 1147         | 1416          |
+| Alkire Street                 | 202           | 10.33                    | 119      | 270      | 425       | 719       | 947       | 1175       | 166         | 312         | 478          | 778          | 1018         | 1249          |
+| Indiana Street / Croke Canal  | 301           | 9.62                     | 112      | 200      | 266       | 392       | 508       | 615        | 155         | 236         | 305          | 439          | 555          | 665           |
+| Below Leyden Lake             | 351           | 9.19                     | 111      | 174      | 186       | 201       | 212       | 333        | 153         | 178         | 190          | 204          | 215          | 550           |
+| Above Leyden Lake             | 401           | 9.19                     | 339      | 1036     | 1759      | 2912      | 3939      | 4975       | 639         | 1418        | 2030         | 3312         | 4404         | 5532          |
+| Church Ditch                  | 403           | 8.69                     | 332      | 1008     | 1714      | 2844      | 3844      | 4855       | 637         | 1392        | 1971         | 3218         | 4278         | 5380          |
+| Quaker Street                 | 404           | 8.42                     | 314      | 976      | 1663      | 2763      | 3732      | 4713       | 613         | 1332        | 1908         | 3116         | 4141         | 5212          |
+| W. 82nd Ave                   | 412           | 4.52                     | 49       | 464      | 815       | 1390      | 1882      | 2371       | 81          | 512         | 866          | 1455         | 1955         | 2453          |
+| Foothills Road                | 413           | 4.02                     | 35       | 404      | 703       | 1213      | 1640      | 2068       | 71          | 449         | 749          | 1271         | 1703         | 2136          |
 

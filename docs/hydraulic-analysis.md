@@ -1,4 +1,4 @@
-# HYDRAULIC ANALYSIS
+# Hydraulic Analysis
 
 New flood hazard delineations were not completed with this study.
 Hydraulic analyses for Leyden Creek were assembled from past reports and
@@ -12,8 +12,8 @@ were used for the hydraulic evaluations.. All modeling was performed
 using HEC-RAS version 4.1.0.
 
 The steady flow files used within these models were updated with new
-discharges developed for this study, as discussed in Section *3.0
-HYDROLOGIC ANALYSIS*.
+discharges developed for this study, as discussed in [Section 3.0
+Hydrologic Analysis](hydrologic-analysis).
 
 ## 4.1 Evaluation of Existing Facilities
 
@@ -26,29 +26,52 @@ crossing was improved to triple 36” corrugated metal pipes (CMP)’s. The
 Alkire Street crossing was changed from a 36” CMP in the effective model
 to a 48” CMP based on information provided by the City of Arvada.
 
-Existing conditions floodplains can be seen in *APPENDIX C – Hydraulic
-Analysis* as part of the Problem Area Identification Map. The HEC-RAS
-cross sections can be seen in *APPENDIX C – Hydraulic Analysis*.
+Existing conditions floodplains can be seen in [*APPENDIX C - Hydraulic
+Analysis*](#) as part of the Problem Area Identification Map. The HEC-RAS
+cross sections can be seen in [*APPENDIX C - Hydraulic Analysis*](#).
 
 An inventory of structures in the existing floodplain can be found
 below.
 
-Table ‑: Buildings in Existing 100-yr Floodplain
+###### Table 4-1 : Buildings in Existing 100-yr Floodplain
+
+| Reach | Location                         | Total Structures | Residental |
+|:------|:---------------------------------|-----------------:|-----------:|
+| 1     | Woodland Valley Filing No. 3     | 1                | 0          |
+|       | Woodland Valley Filing No. 7     | 8                | 8          |
+| 2     | Downstream of West 75th Place    | 1                | 1          |
+|       | Alkire Street to West 75th Place | 2                | 0          |
+| 3     | Upstream of Indiana Street       | 2                | 2          |
+| 4     | Upstream of Quaker Street        | 4                | 2          |
+|       | **Total**                        | **18**           | **13**     |
 
 Most of the roadway crossings were found to be vastly undersized to
 convey the 100-yr discharge without overtopping. In many cases, capacity
 was estimated to be less than the 2-year event. A summary of existing
 infrastructure and estimated capacity is presented below.
 
-Table ‑: Existing Facilities Table
+###### Table 4-2 : Existing Facilities Table
+
+| Location       | Cross Section | Structure Type    | Estimated Structure Discharge (cfs) | 2014 MDP 100-yr Future Flow (cfs) | Return Period |
+|:---------------|:--------------|:------------------|------------------------------------:|----------------------------------:|---------------|
+| Simms Street   | 502.5         | (4) 12' x 5' RCBC | >2157                               | 2157                              | > 100-yr      |
+| W. 72nd Ave    | 505.5         | Bridge            | 590                                 | 2083                              | < 10-yr       |
+| W. 75th Place  | 513.5         | 36" CMP           | 60                                  | 1416                              | < 2-yr        |
+| Alkire Street  | 518.5         | 48" CMP           | 71                                  | 1249                              | < 2-yr        |
+| Croke Canal    | 527.5         | 36" CMP           | 59                                  | 665                               | < 2-yr        |
+| Indiana Street | 529.5         | (3) 36" CMP       | 180                                 | 665                               | < 5-yr        |
+| Leyden Lake    | --            | 36" CI            | 224                                 | 665                               | < 100 yr      |
+| Church Ditch   | 4030          | 84" CMP           | 367                                 | 5380                              | < 2-yr        |
+| Quaker Street  | 5865          | 66" CMP           | 207                                 | 5212                              | < 2-yr        |
+| W. 82nd Ave    | 19390         | (2) 50" x 36" RCP | 142                                 | 2453                              | < 5-yr        |
 
 ## 4.2 Flood Hazards
 
 Existing flood hazards closely resemble those presented by the effective
 FEMA flood hazard information and proposed updates associated with the
 FEMA RiskMap project. A summary of these flood hazards is presented in
-the Drainage Problem Areas Figure (Figure C-1) in *APPENDIX C –
-Hydraulic Analysis*.
+the Drainage Problem Areas Figure (Figure C-1) in [*APPENDIX C -
+Hydraulic Analysis*](#).
 
 #### 4.2.1 Flood Hazards of Reach 1 
 
@@ -57,8 +80,7 @@ buildings are located within the 100-year floodplain boundary. The four
 cell, 12 feet by 5 feet reinforced concrete box culvert (RCBC) at Simms
 Street conveys the 100-year discharges without overtopping.
 
-#### Problem Area 1A – Woodland Valley Filing No. 3
-
+**Problem Area 1A - Woodland Valley Filing No. 3**  
 Due to the overtopping of West 72^nd^ Avenue, the 100-year floodplain is
 widespread through the Woodland Valley Filing No. 3 subdivision.
 Although the residential homes are generally not inundated according to
@@ -69,34 +91,30 @@ relate to adding capacity at West 72^nd^ Avenue without worsening
 flooding potential within the Woodland Valley subdivision, as well as
 improving flood conditions for First United Church.
 
-#### Problem Area 1B – West 72^nd^ Avenue Bridge Crossing
-
+**Problem Area 1B - West 72^nd^ Avenue Bridge Crossing**  
 The bridge roadway crossing at West 72^nd^ Avenue has a conveyance
 capacity less than the 10-year event. Flows in excess of the bridge
 capacity divert water east flowing across West 72^nd^ Avenue as
 described in Problem Area 1A. The City of Arvada would like to maintain
 100-year capacity at all major crossings.
 
-#### Problem Area 1C – Woodland Valley Filing No. 7
-
+**Problem Area 1C - Woodland Valley Filing No. 7**  
 Upstream of West 72^nd^ Avenue, eight residential homes are impacted by
 the 100-year floodplain due to a lack of channel conveyance capacity
 downstream of Leyden Creek Park.
 
-#### 4.2.2 Flood Hazards of Reach 2 
+#### 4.2.2 Flood Hazards of Reach 2
 
 Within Reach 2, one residential home and two additional buildings are
 impacted by the 100-year regulatory floodplain.
 
-#### Problem Area 2A – West 75^th^ Place
-
+**Problem Area 2A - West 75^th^ Place**  
 One residential home is located within the 100-year floodplain boundary
 within Reach 2. The structure is located shortly downstream of West
 75^th^ Place. The road crossing at West 75^th^ Place is undersized 36”
 CMP, with a conveyance capacity less than the 2-year discharge.
 
-#### Problem Area 2B – Cameo Estates Unit No. 2
-
+**Problem Area 2B - Cameo Estates Unit No. 2**  
 Upstream of West 75^th^ Place, Problem Area 2C and 2D lead to the Zone X
 Shaded shallow flooding seen in Cameo Estates Unit No. 2. The shallow
 flooding flows spilling over Alkire impact several residential
@@ -104,8 +122,7 @@ buildings, although these structures are not within the regulatory
 100-year floodplain boundary. There are two structures within the
 regulatory floodplain between Alkire Street and West 75^th^ Place.
 
-#### Problem Area 2C – Alkire Street Culvert Crossing
-
+**Problem Area 2C - Alkire Street Culvert Crossing**  
 Alkire Street is overtopped for the 2-year and larger discharges. As
 shown by past studies, and as part of the 2013 flood, the low point in
 Alkire Street does not occur at the culvert location, but approximately
@@ -115,8 +132,7 @@ within the Cameo Estates Unit No. 2 subdivision. The City of Arvada
 wishes to manage a higher level of capacity for the crossing at this
 location to reduce flooding potential downstream.
 
-#### Problem Area 2D – Upstream of Alkire Street
-
+**Problem Area 2D - Upstream of Alkire Street**  
 Upstream of Alkire Street, Leyden Creek spills out of its right bank
 across the Youth Memorial Sports Complex entrance road diverting flows
 south spilling over Alkire Street. Any flows that are diverted as part
@@ -131,8 +147,7 @@ located within the floodplain. A total of three structures, two
 residential homes are inundated by the 100-year floodplain within Reach
 3.
 
-#### Problem Area 3A – Cameo Estates
-
+**Problem Area 3A - Cameo Estates**  
 Although not impacted by the 100-year regulatory floodplain, many homes
 near this area were impacted by the flooding in September 2013. Flooding
 was determined to be related to diversion from Leyden Creek near ponds,
@@ -141,15 +156,13 @@ systems located in proximity to Cameo Estates. This area was also
 determined to be subject to flooding potential for events exceeding the
 100-year event, such as the September 2013 flood.
 
-#### Problem Area 3B – West of Cameo Estates
-
+**Problem Area 3B - West of Cameo Estates**  
 Upstream of Cameo Estates, private ponds, fence lines, and other
 obstructions have potential to divert flows towards residential
 development, away from the natural flow paths. This was evident in
 September 2013.
 
-#### Problem Area 3C – Croke Canal 
-
+**Problem Area 3C - Croke Canal**  
 The 36” CMP crossing of Leyden Creek under the Croke Canal is undersized
 leading to flows spilling into the Croke Canal. These comingled flows
 exceed the design capacity of the canal, jeopardizing the structural
@@ -157,8 +170,7 @@ integrity of the canal. This was experienced with the September 2013
 flooding where the canal bank eroded and eventually breached near West
 78^th^ Place and Eldridge Street.
 
-#### Problem Area 3D – Indiana Street
-
+**Problem Area 3D - Indiana Street**  
 Even though it was improved since the 2013 flood, the crossing at
 Indiana Street still remains undersized compared to the 100-year event.
 Upstream of Indiana Street there are two residential homes inundated by
@@ -166,8 +178,7 @@ the 100-year floodplain.
 
 #### 4.2.4 Flood Hazards of Reach 4 
 
-#### Problem Area 4A – Leyden Lake
-
+**Problem Area 4A - Leyden Lake**  
 As demonstrated by the updated hydrology in this report, Leyden Lake
 overtops during the 100-year and more significant events even though the
 original design of this facility was intended to provide 100-year level
@@ -175,44 +186,38 @@ of protection. Flows that are discharged over the Leyden Lake spillway
 may be intercepted by the Farmers’ High Line Canal and can lead to other
 potential damages.
 
-#### Problem Area 4B – Church Ditch
-
+**Problem Area 4B - Church Ditch**  
 The Leyden Creek crossing with the Church Ditch lacks capacity to convey
 the flow without overtopping the canal. The canal embankment was eroded
 during the September 2013 flood due to the lack of capacity. This
 ultimately diverted flows from the Church Ditch into Leyden Lake. No
 structures are present in the vicinity of the Church Ditch crossing.
 
-#### Problem Area 4C – Quaker Street
-
+**Problem Area 4C - Quaker Street**  
 The existing crossing at Quaker Street has less than a 2-year capacity,
 causing excess flows to overtop the road. This lack of conveyance
 capacity also contributes to the flooding associated with Problem Area
 4D.
 
-#### Problem Area 4D – Leyden Townsite
-
+**Problem Area 4D - Leyden Townsite**  
 Upstream of the Quaker Street crossing, within the Leyden Townsite
 subdivision, four structures are at risk within the 100-yr regulatory
 floodplain, including two homes. The source of the flood hazards in the
 area are due to the lack of channel conveyance capacity and the
 overtopping at Quaker Street.
 
-#### Problem Area 4E – Pattridge Open Space
-
+**Problem Area 4E - Pattridge Open Space**  
 Through Pattridge Open Space, steep longitudinal slopes have led to high
 velocities, causing erosion of the banks of Leyden Creek. As further
 development occurs upstream and flows increase, grade control is
 warranted to address future degradation.
 
-#### Problem Area 4F – West 82^nd^ Avenue
-
+**Problem Area 4F - West 82^nd^ Avenue** 
 The culvert crossing at West 82^nd^ Avenue currently has less than a
 5-year capacity. The City of Arvada would like to maintain 100-year
 conveyance capacity for all major roadway crossings.
 
-#### Problem Area 4G – Blue Mountain Estates
-
+**Problem Area 4G - Blue Mountain Estates**  
 During the September 2013 flood, flows from the Blue Mountain Estates
 area eroded the shoulders of Blue Mountain Road and diverted water into
 the Leyden Creek watershed. Not only did this require repair from the
@@ -220,13 +225,13 @@ City of Arvada, but it also limited access to Blue Mountain Estates
 during the flood. The City of Arvada wishes to maintain a higher level
 of capacity for Blue Mountain Road and reduce the potential for future
 damages in the area, as seen in the Drainage Problem Area Figures in
-*APPENDIX C – Hydraulic Analysis*.
+[*APPENDIX C - Hydraulic Analysis*](#).
 
 ## 4.3 Previous Analysis
 
 Previous analysis of the Leyden Creek watershed consists of the
 Ralston/Leyden Creek Major Drainageway Planning by Wright-McLaughlin in
-1977 and the Flood Hazard Delineation Ralston Creek – Leyden Creek in
+1977 and the Flood Hazard Delineation Ralston Creek - Leyden Creek in
 2004 by Boyle Engineering. The 1977 MDP identified the road crossings
 throughout the watershed to be improved from West 82^nd^ Avenue (Leyden
 Road in 1977 MDP) to Simms Street. The 2004 FHAD identified the Alkire

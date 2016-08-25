@@ -19,7 +19,7 @@
             {% endfor %}
           </span>
         {% endif %}
-        {{ site_name }} <span class="subtitle">{{ page_title | default(site_name, true) }}</span>
+        {{ site_name }} <span class="subtitle">{{ current_page.title | default(site_name, true) }}</span>
       </div>
     </div>
     {% if config.extra.get("author", {}).twitter %}

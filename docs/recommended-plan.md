@@ -1,10 +1,8 @@
-RECOMMENDED PLAN
-============================================================================================================================================================================================================
+# Recommended Plan
 
-6.1 Plan Description
---------------------
+## 6.1 Plan Description
 
-The recommended plan, shown in *Figure 6‑1*, is described below.
+The recommended plan, shown in [Figure 6-1](#), is described below.
 
 #### 6.1.1 Reach 1 Recommended Plan
 
@@ -82,15 +80,25 @@ historic flow path in the Coal Creek Watershed.
 The final design of elevating Blue Mountain Road should investigate any
 impacts to the structures downstream of Blue Mountain Road.
 
-<span id="_Toc420496925" class="anchor"><span id="_Toc431372727"
-class="anchor"></span></span>Table ‑: Recommended Cost Estimate Summary
+###### Table 6-1 : Recommended Cost Estimate Summary
 
-<span id="_Toc420496926" class="anchor"><span id="_Toc431372728"
-class="anchor"></span></span>Table ‑: Jurisdictional Cost Estimate
-Summary
+| Reach   | Selected Plan                    | Capital         | Easement/ROW | Eng/Admin/Legal | Contingency    | Total Capital Cost | 50-year O&M Cost |
+|:--------|:---------------------------------|----------------:|-------------:|----------------:|---------------:|-------------------:|-----------------:|
+| Reach 1 | Minimum Crossing and Maintenance | $2,686,870      | $24,288      | $806,062        | $671,718       | $4,188,938         | $29,925          |
+| Reach 2 | Minimum Crossing and Maintenance | $920,731        | $59,698      | $276,218        | $230,183       | $1,486,830         | $27,300          |
+| Reach 3 | 100-yr Conveyance                | $1,134,068      | $17,884      | $340,220        | $283,517       | $1,775,689         | $0               |
+| Reach 4 | Minimum Crossing and Maintenance | $7,109,199      | $353,731     | $2,132,760      | $1,777,300     | $11,372,990        | $128,764         |
+|         | **Total Cost**                   | **$11,850,868** | **$455,601** | **$3,555,260**  | **$2,962,718** | **$18,824,447**    | **$185,989**     |
 
-6.2 Water Quality Impacts
--------------------------
+###### Table 6-2 : Jurisdictional Cost Estimate Summary
+
+| Jurisdiction     |    Capital | Easement/ROW | Eng/Admin/Legal | Contingency | Total Capital Cost | 50-year O&M Cost |
+|------------------|-----------:|-------------:|----------------:|------------:|-------------------:|-----------------:|
+| City of Arvada   | $7,964,835 |     $266,812 |      $2,389,452 |  $1,991,210 |        $12,612,309 |         $131,319 |
+| Jefferson County | $1,611,792 |      $85,562 |        $483,536 |    $402,948 |         $2,583,838 |          $58,065 |
+| CoA / Jeff Co    | $2,470,136 |     $118,980 |        $741,040 |    $617,534 |         $3,947,690 |          $41,125 |
+
+## 6.2 Water Quality Impacts
 
 There is no regional water quality improvements proposed for the Leyden
 Creek watershed. New developments, such as Leyden Rock, and Leyden Ranch
@@ -101,16 +109,14 @@ throughout a watershed. By implementing the proposed stable channel
 slopes, less erosion will occur, improving the water quality in the
 watershed.
 
-6.3 Operations and Maintenance
-------------------------------
+## 6.3 Operations and Maintenance
 
 Culvert maintenance for all proposed improvements was assumed to occur
 once every two years. Channel maintenance for proposed improved
 channels, and all proposed hydraulic structures was assumed to be
 performed once every five years.
 
-6.4 Environmental and Safety Assessment
----------------------------------------
+## 6.4 Environmental and Safety Assessment
 
 Implementation of the recommended plan will reduce flood hazards at
 selected roadway crossings. These changes will also improve emergency
@@ -122,10 +128,10 @@ U.S., threatened and endangered species, and general wildlife use. Below
 is a summary of the resources found at the study area and
 recommendations or future actions necessary based on the current site
 conditions and federal, state, and local regulations. ERO’s entire
-assessment can be found in *APPENDIX E – Wetland and Riparian
-Inventory*.
+assessment can be found in [*APPENDIX E – Wetland and Riparian
+Inventory*](#).
 
-#### 6.6.1 General: 
+#### 6.4.1 General 
 
 Although there are some regulated resources in the study area, none of
 them are unique or regionally important. Aside from potential depletions
@@ -135,7 +141,7 @@ dynamic natures, site conditions and regulations should be reconfirmed
 by a qualified consultant prior to conducting construction activities
 within the watershed.
 
-#### 6.6.2 Wetlands and Other Waters of the U.S.
+#### 6.4.2 Wetlands and Other Waters of the U.S.
 
 Leyden Creek, most of its tributaries, and abutting wetlands are likely
 waters of the U.S. Any activity in the proposed alternatives that would
@@ -145,7 +151,7 @@ the activities in the proposed alternatives would provide a net benefit
 to the stream, particularly reestablishing open reaches and grading the
 channel.
 
-#### 6.6.3 Threatened and Endangered Species
+#### 6.4.3 Threatened and Endangered Species
 
 There is no suitable habitat present for any listed threatened or
 endangered species, but depletions associated with new water bodies
@@ -157,7 +163,7 @@ Denver metro block clearance zone, it is recommended that a threatened
 and endangered species letter to the U.S. Fish and Wildlife Service be
 submitted.
 
-#### 6.6.4 Migratory Birds and Other Wildlife
+#### 6.4.4 Migratory Birds and Other Wildlife
 
 If any active nests are found in the study area, any work that would
 destroy the nests should not be conducted until the birds have abandoned
@@ -167,14 +173,5 @@ construction activities would occur during the migratory bird breeding
 season, a nest survey should be conducted immediately prior to
 construction.
 
-Insert: DS here
-
-<span id="_Ref410119101" class="anchor"><span id="_Ref410119094"
-class="anchor"><span id="_Toc416705176" class="anchor"><span
-id="_Toc431372743" class="anchor"></span></span></span></span>Figure ‑:
-Recommended Plan
-
-Insert U/S here
-
-Upstream recommended plan
-
+###### Figure 6-1 : Recommended Plan
+<div id="figure6-1" class="embedMap"></div>

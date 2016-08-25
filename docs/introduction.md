@@ -1,4 +1,4 @@
-# INTRODUCTION
+# Introduction
 
 ## 1.1 Authorization
 
@@ -14,12 +14,10 @@ stakeholder and participant in this study.
 
 The purpose of this study is to provide updated hydrologic information
 for Leyden Creek. The watershed is bounded to the south by the Ralston
-Creek watershed[^1], to the north by both Big Dry Creek and Little Dry Creek
+Creek watershed, to the north by both Big Dry Creek and Little Dry Creek
 watersheds. The majority of the Leyden Creek watershed is located within
 the City of Arvada with the remaining areas lying within unincorporated
 Jefferson County.
-
-[^1]: Ralston Study Citation
 
 The following is a summary of the scope of work for this study:
 
@@ -126,19 +124,20 @@ Arvada Comprehensive Plan was accessed from the City of Arvada’s
 website. All other documents were provided by project sponsors. Reports
 collected are referenced in Table 1-1 below.
 
-#### *Table 1-1: Data Collected*
-|Document Title|Date|Author|
-|-----|-----|-----|
-|*Major Drainageway Planning Ralston/Leyden Creek* |September 1977  | Wright-McLaughlin Engineers|
-|*Ralston Van Bibber and Leyden MDP*|February 1986 |Wright Water Engineers|
-|*Flood Control Improvements for Leyden Lake Dam*|December 2001|URS Greiner Woodward Clyde|
-|*Hydrology Report Ralston/Leyden Creeks*|April 2003|Boyle Engineering Corporation|
-|*Flood Hazard Area Delineation Ralston Creek-Leyden Creek*|June 2004|Boyle Engineering Corporation|
-|*Church Ditch 82^nd^ and Quaker Street Leyden Crossing Construction Drawings*|December 2013|SM&RC Structural Engineers Inc.|
-|*Ward Road Extension Preliminary Design*|January 2014|Atkins|
-|*Flood Insurance Study - Jefferson County, Colorado*|February 2014|Federal Emergency Management Agency|
-|*September 11-13, 2013 Arvada Flood Event Reconstruction and Documentation*|March 2014|Water & Earth Technologies|
-|*Arvada Comprehensive Plan*|October 2014|City of Arvada|
+###### Table 1-1: Data Collected
+
+|Document Title                                                               |Date            |Author                             |
+|-----------------------------------------------------------------------------|----------------|-----------------------------------|
+|*Major Drainageway Planning Ralston/Leyden Creek*                            |September 1977  |Wright-McLaughlin Engineers        |
+|*Ralston Van Bibber and Leyden MDP*                                          |February 1986   |Wright Water Engineers             |
+|*Flood Control Improvements for Leyden Lake Dam*                             |December 2001   |URS Greiner Woodward Clyde         |
+|*Hydrology Report Ralston/Leyden Creeks*                                     |April 2003      |Boyle Engineering Corporation      |
+|*Flood Hazard Area Delineation Ralston Creek-Leyden Creek*                   |June 2004       |Boyle Engineering Corporation      |
+|*Church Ditch 82^nd^ and Quaker Street Leyden Crossing Construction Drawings*|December 2013   |SM&RC Structural Engineers Inc.    |
+|*Ward Road Extension Preliminary Design*                                     |January 2014    |Atkins                             |
+|*Flood Insurance Study - Jefferson County, Colorado*                         |February 2014   |Federal Emergency Management Agency|
+|*September 11-13, 2013 Arvada Flood Event Reconstruction and Documentation*  |March 2014      |Water & Earth Technologies         |
+|*Arvada Comprehensive Plan*                                                  |October 2014    |City of Arvada                     |
 
 ## 1.6 Acknowledgements
 
@@ -146,12 +145,13 @@ This report was prepared with the cooperation of the UDFCD, the City of
 Arvada, and Jefferson County. The representatives who were involved with
 this study are listed in Table 1-2 below:
 
-#### Table 1-2: Project Participants
-|Name|Representing|Assignment|
-|----|----|----|
-|Shea Thomas, P.E.|UDFCD|Senior Project Engineer, Master Planning Program|
-|Patrick Dougherty, P.E., CFM|City of Arvada|Special Projects Engineer|
-|John Conn, P.E.|Jefferson County|Department of Transportation|
-|Craig D. Jacobson, P.E., CFM|ICON|Principal-in-Charge|
-|Brian LeDoux, P.E., CFM|ICON|Project Manager|
-|Jeremy Deischer, E.I.|ICON|Project Engineer|
+###### Table 1-2: Project Participants
+
+|Name                          |Representing     |Assignment                                      |
+|:-----------------------------|:----------------|:-----------------------------------------------|
+|Shea Thomas, P.E.             |UDFCD            |Senior Project Engineer, Master Planning Program|
+|Patrick Dougherty, P.E., CFM  |City of Arvada   |Special Projects Engineer                       |
+|John Conn, P.E.               |Jefferson County |Department of Transportation                    |
+|Craig D. Jacobson, P.E., CFM  |ICON             |Principal-in-Charge                             |
+|Brian LeDoux, P.E., CFM       |ICON             |Project Manager                                 |
+|Jeremy Deischer, E.I.         |ICON             |Project Engineer                                |

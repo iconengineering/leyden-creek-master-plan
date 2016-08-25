@@ -1,8 +1,6 @@
-# STUDY AREA DESCRIPTION
+# Study Area Description
 
 ## 2.1 Project Area
-
-<!-- ![Image 9](media/image9.png) -->
 
 The Leyden Creek watershed has a drainage area of approximately 11.8 square
 miles, located in the City of Arvada and unincorporated Jefferson
@@ -13,7 +11,7 @@ elevation from 5420 feet at the confluence with Ralston Creek south of
 72^nd^ Avenue and Simms Street to 7648 feet at the upstream watershed
 limits. The watershed has an average slope of approximately 2.9%. The
 UDFCD Reuse number for the Leyden Creek watershed is 4308. The extents
-of the project area can be seen in *Figure 2‑2*.
+of the project area can be seen in [Figure 2-1](#figure-2-1-vicinity-map).
 
 Downstream of Leyden Lake, the watershed primarily consists of
 residential development. Although the majority of the basin upstream of
@@ -35,7 +33,7 @@ analysis.
 The majority of the watershed is comprised of Type C soil as defined by
 the Natural Resources Conservation Service (NRCS). Type A, Type B, Type
 D soil are also present within the watershed. A soil map of the
-watershed can be found in *APPENDIX B – Hydrologic Analysis.*
+watershed can be found in [*APPENDIX B – Hydrologic Analysis*](#).
 
 Although there are several detention facilities in the watershed, only
 four met criteria to be considered for flood reduction purposes in this
@@ -56,8 +54,9 @@ Canal is located downstream of Indiana Street and also upstream of the
 Cameo Estates neighborhood. Canals were considered to be flowing full at
 the time of the storm for the hydrologic analysis.
 
-#### Demo Map
-<div id="map-1" class="embedMap"></div>
+###### Figure 2-1 : Vicinity Map
+<div id="figure2-1" class="embedMap"></div>
+<i class="fa fa-square-o fa-lg" style="color: #3F51B5;"></i> Project Bounds<i class="fa fa-square-o fa-lg" style="color: #FF5722;margin-left: 16px;"></i> UDFCD Bounds
 
 ## 2.2 Land Use
 
@@ -76,6 +75,19 @@ impervious values for each land use type. For residential development,
 Figures RO-3, RO-4, RO-5 (USDCM) were utilized to determine impervious
 percentages.
 
+###### Table 2-1 : Land Use Description
+
+| Land Use Description    | Percent Impervious (%) | Land Use Description       | Percent Impervious (%) |
+|:------------------------|-----------------------:|:---------------------------|-----------------------:|
+| Undeveloped Area        | 2                      | Residential - 3 DU/Ac      | 47                     |
+| Railroad Tracks         | 5                      | Schools                    | 50                     |
+| Landfill                | 15                     | Multi-unit - Detached      | 60                     |
+| Residential - 0.5 DU/Ac | 20                     | Multi-unit - Attached      | 75                     |
+| Residential - 1 DU/Ac   | 25                     | Industrial- Light          | 80                     |
+| Residential - 1.5 DU/Ac | 30                     | Industrial - Heavy         | 90                     |
+| Residential - 2 DU/Ac   | 35                     | Business - Commercial Area | 95                     |
+| Residential - 3 DU/Ac   | 40                     | Lake Water Surface         | 100                    |
+
 The Jefferson County landfill located east of Hwy 93 and north of W.
 82^nd^ Avenue was assigned an impervious value of 15 %. This value was
 selected after project sponsor agreement based on soil conditions
@@ -83,7 +95,7 @@ consistent with landfill cover and operations. This value also maintains
 consistency with hydrology submitted for ongoing FEMA update studies.
 The Pioneer Sand Company, located south of W. 82^nd^ Avenue, was assumed
 to have an open space impervious value. The existing conditions land use
-map can be found in *APPENDIX B – Hydrologic Analysis*
+map can be found in [*APPENDIX B - Hydrologic Analysis*](#).
 
 For the future land use conditions, impervious values anticipate future
 development based on land use and zoning information collected from
@@ -95,20 +107,21 @@ resulting in similar land use for both existing and future conditions.
 Upstream of the reservoir higher impervious values resulted from the
 planned development areas and industrial locations.
 
-![Image 19](media/image19.jpeg)Through discussions with project sponsors,
+Through discussions with project sponsors,
 the area west of Highway 93, and south of Highway 72, zoned commercial
 and industrial in Arvada, was replaced with open space based on the land
-use plan. The future conditions land use map can be found in *APPENDIX B
-– Hydrologic Analysis*
+use plan. The future conditions land use map can be found in [*APPENDIX B - Hydrologic Analysis*](#).
 
 ## 2.3 Reach Description
 
 For the purposes of this study Leyden Creek was divided into four
 reaches. Descriptions of each reach are provided below and can be seen
-on maps provided in *APPENDIX B – Hydrologic Analysis*
+on maps provided in [*APPENDIX B – Hydrologic Analysis*](#).
 
-#### Clickable Map
-<div id="map-2" class="embedMap"></div>
+###### Figure 2-2 : Watershed Map
+<div id="figure2-2" class="embedMap"></div>
+<i class="fa fa-square-o fa-lg" style="color: #3F51B5;"></i> Project Bounds<i class="fa fa-ellipsis-h" style="color: #333;margin-left: 16px;"></i> Arvada Limits<i class="fa fa-circle" style="color: #673AB7;margin-left: 16px;"></i> UDFCD Gages<i class="fa fa-circle" style="color: #00BCD4;margin-left: 16px;"></i> Storage Facilities<i class="fa fa-minus" style="color: #FF5722;margin-left: 16px;"></i> Blue Mountain Rd.  
+<i class="fa fa-square fa-lg" style="color: #795548;"></i> Jefferson County Landfill<i class="fa fa-square fa-lg" style="color: #CDDC39;margin-left: 16px;"></i> Leyden Rock<i class="fa fa-square fa-lg" style="color: #009688;margin-left: 16px;"></i> Leyden Ranch West
 
 Downstream of Leyden Lake a detailed floodplain analysis was conducted
 in the 2004 Boyle Flood Hazard Area Delineation study. Upstream of
@@ -116,11 +129,10 @@ Leyden Lake an approximate detail (Zone A) floodplain exists for Leyden
 Creek and a small portion of Barbara Gulch near the confluence with
 Leyden Creek.
 
-Table ‑: Land Use Description
+###### Reach 1- Confluence with Ralston Creek to Leyden Creek Park
 
-#### Reach 1- Confluence with Ralston Creek to Leyden Creek Park
-
-![Image 22](media/image22.jpeg)
+[![Photo 1](assets/img/photo1.jpg){: .left-img }](assets/img/photo1.jpg){: target="_blank" }   
+*Leyden Creek at W 72^nd^ Ave.*
 
 Throughout Reach 1, Leyden Creek is bordered by residential land uses.
 This reach of Leyden Creek is approximately 0.7 miles long and primarily
@@ -128,7 +140,11 @@ consists of a grass lined channel. Leyden Creek crosses Simms St. and W
 72^nd^ Ave in this reach, passing through the Mapleleaf and Woodland
 Valley subdivisions.
 
-#### Reach 2- Leyden Creek Park to Upstream of Alkire Street
+
+###### Reach 2- Leyden Creek Park to Upstream of Alkire Street
+
+[![Photo 2](assets/img/photo2.jpg){: .left-img }](assets/img/photo2.jpg){: target="_blank" }  
+*Leyden Creek at W 75^th^ Pl.*
 
 Reach 2 stretches approximately 1 mile through residential development
 of large acre lots. The stream meanders through this reach crossing
@@ -136,17 +152,21 @@ Alkire St. at the upstream end of the reach also crossing W 75^th^ Pl.
 throughout the reach. The majority of this reach is contained in the
 Cameo Estates Unit 2 subdivision.
 
-#### Reach 3 – Upstream of Alkire St to Leyden Lake
+###### Reach 3 – Upstream of Alkire St to Leyden Lake
 
-![Image 24](media/image24.jpeg)
+[![Photo 3](assets/img/photo3.jpg){: .left-img }](assets/img/photo3.jpg){: target="_blank" }  
+*Leyden Creek upstream of Alkire St.*
 
 Reach 3, approximately 1.1 miles, contains the Indiana St. and Croke
 Canal crossings. Downstream of the crossings, the neighborhood of Cameo
 Estates lies to the north with Youth Memorial Park to the south.
 
-#### Reach 4 – Upstream of Leyden Lake
+###### Reach 4 – Upstream of Leyden Lake
 
-![Image 26](media/image26.jpeg)Reach 4 consist primarily of a natural
+[![Photo 4](assets/img/photo4.jpg){: .left-img }](assets/img/photo4.jpg){: target="_blank" }  
+*Leyden Creek at W 82^nd^ Ave.*
+
+Reach 4 consist primarily of a natural
 channel on undeveloped land. The creek meanders approximately 3.3 miles
 during this reach, starting at Highway 93 crossing W 82^nd^ Avenue and
 Quaker St. prior to entering Leyden Lake, downstream. The Leyden Rock

@@ -1,8 +1,6 @@
-CONCEPTUAL DESIGN 
-==================
+# Conceptual Design
 
-7.1 Plan Development Overview
------------------------------
+## 7.1 Plan Development Overview
 
 The Selected Plan letter from the project sponsors was issued on April
 29, 2015, and can be found in *APPENDIX A - Project Correspondence.* The
@@ -26,48 +24,43 @@ adjacent channel improvements. Finally, the master plan improvements
 incorporate trail connections to the regional trail networks, where
 applicable.
 
-#### ***7.1.1 General Recommendations***
+#### 7.1.1 General Recommendations
 
 Land-use changes to contributing watersheds affect the flood hazard
 nature (i.e., runoff rates, volumes and depths), the transport of
 sediment, and the water quality of the receiving natural waterways. To
 encourage the implementation of this master plan, it is recommended:
 
-a.  That the controlling jurisdictions take steps to stabilize all major
+1.  That the controlling jurisdictions take steps to stabilize all major
     waterways when their watershed urbanizes, rehabilitate existing
     degraded reaches of the waterways and their tributaries, and
     aggressively control erosion and sediment transport during
     construction activities.
-
-b.  That Sponsors and any other jurisdiction having land use control
+2.  That Sponsors and any other jurisdiction having land use control
     powers in this watershed require new land development and
     significant redevelopment and publicly funded projects to provide to
     the maximum extent practicable runoff volume control practices
     (i.e., minimize directly connected impervious areas and employ
     infiltrating BMPs) whenever site conditions permit.
-
-c.  That the controlling jurisdictions take steps to require that all
+3.  That the controlling jurisdictions take steps to require that all
     BMPs for all new development, redevelopment, and publicly funded
     projects provide to the maximum extent practicable a Water Quality
     Capture Volume (WQCV) as recommended in the Urban Storm Drainage
-    Criteria Manual – Volume 3, after accounting for volume reductions
+    Criteria Manual - Volume 3, after accounting for volume reductions
     achieved using volume control practices as recommended under item
     b above.
-
-d.  That all jurisdiction having land use control powers in this
+4.  That all jurisdiction having land use control powers in this
     watershed continue to implement their floodplain management
     regulations, including regulation of the 100-year floodway
     and floodplain.
-
-e.  If not already done so, all jurisdictions should adopt a policy of
+5.  If not already done so, all jurisdictions should adopt a policy of
     preserving the defined floodplains as open spaces to the maximum
     extent possible and that at least 1-foot freeboard be provided for
     the lowest floor above the 100-year flood elevation shown on the
     latest flood hazard area delineation of FIRM maps for all human
     occupied structures built adjacent to, or within, the defined
     100-year floodplains.
-
-f.  That all jurisdiction having land use control powers in this
+6.  That all jurisdiction having land use control powers in this
     watershed continue to participate in FEMA’s flood insurance
     Community Rating System and public education programs.
 
@@ -85,14 +78,13 @@ Energy provided approximate utility locates at each street crossing.
 Easement costs were calculated from the easement area required for each
 of the property and the actual land value provided by Jefferson County.
 
-7.2 Master Plan Description
----------------------------
+## 7.2 Master Plan Description
 
 The Conceptual Design is described on a reach by reach basis in Sections
 7.2.1 through 7.2.4. Cost Estimates for the Selected Plan can be found
-in *Table 7‑5: Cost Estimate Summary by Reach*. Schematics for the
-Selected Plan can be found in *Figure 7‑1.* Master Plan maps and
-profiles can be found in *APPENDIX H* and *APPENDIX I* respectively.
+in [Table 7-5: Cost Estimate Summary by Reach](#). Schematics for the
+Selected Plan can be found in [Figure 7-1](#). Master Plan maps and
+profiles can be found in [*APPENDIX H*](#) and [*APPENDIX I*](#) respectively.
 
 Downstream of Leyden Lake a design slope of 0.45% was selected for
 stabilization of the main channel. Upstream of the Leyden Lake, a design
@@ -122,7 +114,7 @@ with significant grade changes between existing and proposed channel
 configurations. When the grade changes were less than 2-feet in height,
 riffle type drop structures were recommended.
 
-#### 7.2.1 Reach 1 – Confluence with Ralston Creek to Leyden Creek Park Selected Plan
+#### 7.2.1 Reach 1 - Confluence with Ralston Creek to Leyden Creek Park Selected Plan
 
 The selected plan for Reach 1 recommends improving the bridge at West
 72^nd^ Avenue and increasing the conveyance capacity of the channel
@@ -174,8 +166,6 @@ will need to be protected, or relocated.
 
     -   8 inch VCP near pedestrian bridge upstream of West 72^nd^ Avenue
 
-<!-- -->
-
 -   XCEL Gas
 
 -   XCEL Electric
@@ -186,14 +176,9 @@ will need to be protected, or relocated.
 
 *CLICK HERE TO VIEW REACH 1 PROFILE*
 
-*\
-*<span id="_Toc431372729" class="anchor"></span>Table ‑: Reach 1 Cost
-Estimate Summary
+###### Table - : Reach 1 Cost Estimate Summary
 
-![](media/image40.emf){width="6.558441601049869in"
-height="8.184312117235345in"}
-
-#### 7.2.2 Reach 2 – Leyden Creek Park to Upstream of Alkire Street Selected Plan
+#### 7.2.2 Reach 2 - Leyden Creek Park to Upstream of Alkire Street Selected Plan
 
 An extension of Ward Road from West 72^nd^ Avenue north to the existing
 alignment was in development at the time of this master plan. 30%
@@ -254,13 +239,9 @@ At Alkire Street there are several known utilities:
 
 *CLICK HERE TO VIEW REACH 2 PROFILE*
 
-<span id="_Toc431372730" class="anchor"></span>Table ‑: Reach 2 Cost
-Estimate Summary
+###### Table - : Reach 2 Cost Estimate Summary
 
-![](media/image41.emf){width="5.727784339457568in"
-height="8.360464785651793in"}
-
-#### 7.2.3 Reach 3 – Upstream of Alkire Street to Leyden Lake Selected Plan
+#### 7.2.3 Reach 3 - Upstream of Alkire Street to Leyden Lake Selected Plan
 
 During the September 2013 event, spill flows from Leyden Creek diverted
 east, flooding areas within the Cameo Estates subdivision. Although the
@@ -314,13 +295,9 @@ There are several known utilities in the project reach:
 
 *CLICK HERE TO VIEW REACH 3 PROFILE*
 
-<span id="_Toc431372731" class="anchor"></span>Table ‑: Reach 3 Cost
-Estimate Summary
+###### Table - : Reach 3 Cost Estimate Summary
 
-![](media/image42.emf){width="5.9892705599300085in"
-height="8.372093175853019in"}
-
-#### 7.2.4 Reach 4 – Upstream of Leyden Lake
+#### 7.2.4 Reach 4 - Upstream of Leyden Lake
 
 To incorporate the future pedestrian trail, a 180 ft. span bridge is
 proposed at Quaker Street. A 10 foot concrete pedestrian trail with 10
@@ -381,25 +358,16 @@ Quaker Street:
 
 *CLICK HERE TO VIEW REACH 4 PROFILE*
 
-*\
-*<span id="_Toc431372732" class="anchor"></span>Table ‑: Reach 4 Cost
-Estimate Summary
+###### Table - : Reach 4 Cost Estimate Summary
 
-<span id="_Ref422215782" class="anchor"><span id="_Ref422215692"
-class="anchor"></span></span>![](media/image43.emf){width="5.083503937007874in"
-height="8.40097440944882in"}
+###### Table - : Cost Estimate Summary by Reach
 
-<span id="_Ref423014116" class="anchor"><span id="_Toc431372733"
-class="anchor"></span></span>Table ‑: Cost Estimate Summary by Reach
+###### Table - : Cost Estimate Summary by Jurisdiction
 
-<span id="_Toc431372734" class="anchor"></span>Table ‑: Cost Estimate
-Summary by Jurisdiction
+###### Figure 7-1 : Master Plan Schematic
+<div id="figure7-1" class="embedMap"></div>
 
-<span id="_Ref423014408" class="anchor"><span id="_Toc431372744"
-class="anchor"></span></span>Figure ‑: Master Plan Schematic
-
-7.3 Prioritization and Phasing
-------------------------------
+## 7.3 Prioritization and Phasing
 
 In general, drainage improvements should be constructed from downstream
 to upstream to avoid any adverse impacts. Due to the isolated nature of
@@ -420,7 +388,7 @@ further protecting the Canal’s integrity during flood events. A
 formalized spill location has also been proposed to manage spill flows
 in excess of the canal capacity.
 
-*Priority 2 – Emergency Access:* Improvements at West 82^nd^ Avenue are
+*Priority 2 - Emergency Access:* Improvements at West 82^nd^ Avenue are
 recommended next to improve localized access during storm events. During
 the September 2013 flood this roadway was severely overtopping,
 eliminating the possibility of vehicular use. Blue Mountain Road
@@ -430,7 +398,7 @@ and culvert improvements, residents will have improved access during
 major storm events. Improvements at Blue Mountain Road will also reduce
 trans basin inflows to the Leyden Creek watershed.
 
-*Priority 3 – Floodplain Reduction:* Several structures are located
+*Priority 3 - Floodplain Reduction:* Several structures are located
 within a shallow, 100-year, flood hazard area east of Alkire Street.
 Improvements at Alkire would convey flow underneath the roadway and
 reduce flood risk within these shallow flooding zones. Similarly,
@@ -439,14 +407,14 @@ improving the channel near Woodland Valley No. 7, upstream of West
 floodplain. This improvement requires a minimal level of easement
 acquisition to implement the improvements.
 
-*Priority 4 – Minimum Flood Improvements:*  While the West 75^th^ Place
+*Priority 4 - Minimum Flood Improvements:*  While the West 75^th^ Place
 project would not have significant impact on reducing 100-year
 floodplain limits, this project would reduce the frequent flooding of
 the roadway crossing.  The project would convey all discharges up to the
 10-year event, whereas the existing crossing structure does not have the
 capacity to convey the 2-year event.
 
-*Priority 5 – Future Roadway and Trail Needs:*  Although projects at
+*Priority 5 - Future Roadway and Trail Needs:*  Although projects at
 West 72^nd^ Avenue to Simms Street and at Quaker Street will remove
 several properties from the floodplain, each of these projects will
 require significant easements from private properties to implement the
@@ -455,8 +423,7 @@ projects be implemented alongside, or ahead of, other City needs
 including roadway expansion projects or extensions of the regional trail
 network.
 
-7.4 Water Quality Impacts
--------------------------
+## 7.4 Water Quality Impacts
 
 No regional water quality improvements are proposed for the Leyden Creek
 watershed. New developments, such as Leyden Rock, and Leyden Ranch West,
@@ -467,8 +434,7 @@ throughout a watershed. By implementing the proposed stable channel
 slopes and stabilization structures, erosion will be less prominent,
 improving overall water quality along Leyden Creek.
 
-7.5 Operations and Maintenance
-------------------------------
+## 7.5 Operations and Maintenance
 
 Culvert maintenance for all proposed improvements was assumed to occur
 once every two years. Channel and all proposed hydraulic structures
@@ -476,8 +442,7 @@ maintenance was assumed to be performed once every five years.
 Maintenance would include routine mowing of grass lined channels, debris
 removal, and sediment removal
 
-7.6 Environmental and Safety Assessment
----------------------------------------
+## 7.6 Environmental and Safety Assessment
 
 Implementation of the recommended plan will reduce flood hazards at
 selected roadway crossings. These changes will also improve emergency
@@ -489,10 +454,10 @@ U.S., threatened and endangered species, and general wildlife use. Below
 is a summary of the resources found at the study area and
 recommendations or future actions necessary based on the current site
 conditions and federal, state, and local regulations. ERO’s entire
-assessment can be found in *APPENDIX E – Wetland and Riparian
+assessment can be found in *APPENDIX E - Wetland and Riparian
 Inventory*.
 
-#### 7.6.1 General: 
+#### 7.6.1 General
 
 Although there are some regulated resources in the study area, none of
 them are unique or regionally important. Aside from potential depletions

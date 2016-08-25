@@ -11,3 +11,18 @@
 .marker-title {
     font-weight: 700;
 }
+
+.toc ul>li::before {
+	content: none;
+}
+
+.left-img {
+	max-height: 40vh !important;
+}
+
+.dialog {
+  max-height: calc(100vh - 32px);
+  top:1em;
+  overflow-y:auto;
+  min-width: 75%;
+}

@@ -14,25 +14,23 @@ copyright: Copyright (c) 2016 ICON Engineering, Inc.
 
 # Page tree
 pages:
-  - Executive Summary: index.md
+  - Table of Contents: index.md
   - Introduction: introduction.md
   - Study Area Description: study-area-description.md
   - Hydrologic Analysis: hydrologic-analysis.md
   - Hydraulic Analysis: hydraulic-analysis.md
   - Alternative Analysis: alternative-analysis.md
- # - Recommended Plan: recommended-plan.md
- # - Conceptual Design: conceptual-design.md
+  - Recommended Plan: recommended-plan.md
+  - Conceptual Design: conceptual-design.md
 
 # Documentation and theme
 theme_dir: '../mkdocs-material/material'
 extra_javascript:
-  - 'assets/js/jquery-2.2.4_min.js'
-  - 'assets/js/mapbox-gl.js'
-  - 'assets/js/map1.js'
-  - 'assets/js/map2.js'
+  - 'assets/js/map2-1.js'
+  - 'assets/js/map2-2.js'
+  - 'assets/js/map7-1.js'
 extra_css:
-  - 'assets/css/mapbox-gl.css'
-  - 'assets/css/map.css'
+  - 'assets/css/extra.css'
 
 # Options
 extra:
@@ -52,5 +50,6 @@ markdown_extensions:
   - subscript
   - codehilite(css_class=code)
   - admonition
+  - extra
   - toc:
-      permalink: '#'
+      permalink: ''
