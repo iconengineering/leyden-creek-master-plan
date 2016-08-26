@@ -5,7 +5,6 @@
 
 .mapboxgl-popup {
     max-width: 400px;
-    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
 .marker-title {
@@ -20,9 +19,24 @@
 	max-height: 40vh !important;
 }
 
-.dialog {
-  max-height: calc(100vh - 32px);
-  top:1em;
-  overflow-y:auto;
-  min-width: 75%;
+table {
+  display: block;
+  max-height: 50vh;
+  overflow-y: auto !important;
 }
+
+.tg .tg-o6ir{font-weight:bold;background-color:#ffc400;text-align:right;vertical-align:top}
+.tg .tg-wht2{font-weight:bold;background-color:#455a64;color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-x5aj{text-align: left;background-color:#90a4ae;color:#efefef;vertical-align:top}
+.tg .tg-4l1v{font-weight:bold;text-align: left;}
+.tg .tg-e3zv{font-weight:bold}
+.tg .tg-ejgj{text-align: left;vertical-align:top}
+.tg .tg-lqy6{text-align:right;vertical-align:top}
+.tg .tg-pf7b{font-weight:bold;text-align: left;background-color:#ffc400}
+.tg .tg-u6p0{text-align: left;background-color:#90a4ae;color:#efefef}
+.tg .tg-yw4l{vertical-align:top}
+.tg .tg-s88y{font-weight:bold;text-align: left;background-color:#ffc400;vertical-align:top}
+.tg .tg-0898{font-weight:bold;text-align: left;vertical-align:top}
+.tg .tg-l2oz{font-weight:bold;text-align:right;vertical-align:top}
+.tg .tg-pmsa{font-weight:bold;background-color:#ffc400;vertical-align:top}
+.tg .tg-9hbo{font-weight:bold;vertical-align:top}
