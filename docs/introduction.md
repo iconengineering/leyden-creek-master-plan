@@ -139,7 +139,7 @@ collected are referenced in Table 1-1 below.
 |*September 11-13, 2013 Arvada Flood Event Reconstruction and Documentation*  |March 2014      |Water & Earth Technologies         |
 |*Arvada Comprehensive Plan*                                                  |October 2014    |City of Arvada                     |
 
-## 1.6 Acknowledgements
+## 1.6 Acknowledgments
 
 This report was prepared with the cooperation of the UDFCD, the City of
 Arvada, and Jefferson County. The representatives who were involved with
@@ -148,7 +148,7 @@ this study are listed in Table 1-2 below:
 ###### Table 1-2: Project Participants
 
 |Name                          |Representing     |Assignment                                      |
-|:-----------------------------|:----------------|:-----------------------------------------------|
+|:-----------------------------|-----------------|------------------------------------------------|
 |Shea Thomas, P.E.             |UDFCD            |Senior Project Engineer, Master Planning Program|
 |Patrick Dougherty, P.E., CFM  |City of Arvada   |Special Projects Engineer                       |
 |John Conn, P.E.               |Jefferson County |Department of Transportation                    |

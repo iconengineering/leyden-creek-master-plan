@@ -36,7 +36,7 @@ below.
 ###### Table 4-1 : Buildings in Existing 100-yr Floodplain
 
 | Reach | Location                         | Total Structures | Residental |
-|:------|:---------------------------------|-----------------:|-----------:|
+|:------|:---------------------------------|------------------|------------|
 | 1     | Woodland Valley Filing No. 3     | 1                | 0          |
 |       | Woodland Valley Filing No. 7     | 8                | 8          |
 | 2     | Downstream of West 75th Place    | 1                | 1          |
@@ -53,7 +53,7 @@ infrastructure and estimated capacity is presented below.
 ###### Table 4-2 : Existing Facilities Table
 
 | Location       | Cross Section | Structure Type    | Estimated Structure Discharge (cfs) | 2014 MDP 100-yr Future Flow (cfs) | Return Period |
-|:---------------|:--------------|:------------------|------------------------------------:|----------------------------------:|---------------|
+|:---------------|---------------|-------------------|-------------------------------------|-----------------------------------|---------------|
 | Simms Street   | 502.5         | (4) 12' x 5' RCBC | >2157                               | 2157                              | > 100-yr      |
 | W. 72nd Ave    | 505.5         | Bridge            | 590                                 | 2083                              | < 10-yr       |
 | W. 75th Place  | 513.5         | 36" CMP           | 60                                  | 1416                              | < 2-yr        |

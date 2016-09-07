@@ -6,7 +6,7 @@
 - 1.3 [Planning Process](introduction/#13-planning-process)
 - 1.4 [Mapping and Surveys](introduction/#14-mapping-and-surveys)
 - 1.5 [Data Collection](introduction/#15-data-collection)
-- 1.6 [Acknowledgements](introduction/#16-acknowledgements)
+- 1.6 [Acknowledgments](introduction/#16-acknowledgments)
 
 ### 2.0 [Study Area Description](study-area-description)  
 - 2.1 [Project Area](study-area-description/#21-project-area)
@@ -36,15 +36,6 @@
 - 4.2 [Flood Hazards](hydraulic-analysis/#42-flood-hazards)
 - 4.3 [Previous Analysis](hydraulic-analysis/#43-previous-analysis)
 
-### 5.0 [Alternative Analysis](alternative-analysis)
-- 5.1 [Alternative Development Process](alternative-analysis/#51-alternative-development-process)
-- 5.2 [Criteria and Constraints](alternative-analysis/#52-criteria-and-constraints)
-- 5.3 [Alternative Categories](alternative-analysis/#53-alternative-categories)
-- 5.4 [Alternative Hydraulics](alternative-analysis/#54-alternative-hydraulics)
-- 5.5 [Alternative Cost Estimates](alternative-analysis/#55-alternative-cost-estimates)
-- 5.6 [Alternative Plans](alternative-analysis/#56-alternative-plans)
-- 5.7 [Qualitative Evaluation Procedure](alternative-analysis/#57-qualitative-evaluation-procedure)
-
 ### 6.0 [Recommended Plan](recommended-plan)
 - 6.1 [Plan Description](recommended-plan/#61-plan-description)
 - 6.2 [Water Quality Impacts](recommended-plan/#62-water-quality-impacts)
@@ -53,7 +44,7 @@
 
 ### 7.0 [Conceptual Design](conceptual-design)
 - 7.1 [Plan Development Overview](conceptual-design/#71-plan-development-overview)
-- 7.2 [Master Plan Desctiption](conceptual-design/#72-master-plan-description)
+- 7.2 [Master Plan Description](conceptual-design/#72-master-plan-description)
 - 7.3 [Prioritization and Phasing](conceptual-design/#73-prioritization-and-phasing)
 - 7.4 [Water Quality Impacts](conceptual-design/#74-water-quality-impacts)
 - 7.5 [Operations and Maintenance](conceptual-design/#75-operations-and-maintenance)
@@ -68,12 +59,6 @@
 - [Table 3-3: Summary of Peak Flows](hydrologic-analysis/#table-3-3-summary-of-peak-flows)
 - [Table 4-1: Buildings in Existing 100-yr Floodplain](hydraulic-analysis/#table-4-1-buildings-in-existing-100-yr-floodplain)
 - [Table 4-2: Existing Facilities Table](hydraulic-analysis/#table-4-2-existing-facilities-table)
-- [Table 5-1: Alternative Pre-Screening Matrix](alternative-analysis/#table-5-1-alternative-pre-screening-matrix)
-- [Table 5-2: Minimum Crossing Improvement and Maintenance Cost Estimate Summary](alternative-analysis/#table-5-2-minimum-crossing-improvement-and-maintenance-cost-estimate-summary)
-- [Table 5-3: 100-yr Conveyance Cost Estimate Summary](alternative-analysis/#table-5-3-100-yr-conveyance-cost-estimate-summary)
-- [Table 5-4: Combination Alternative Cost Estimate Summary](alternative-analysis/#table-5-4-combination-alternative-cost-estimate-summary)
-- [Table 5-5: Improvement Benefits](alternative-analysis/#table-5-5-improvement-benefits)
-- [Table 5-6: Benefit-Cost Analysis Summary](alternative-analysis/#table-5-6-benefit-cost-analysis-summary)
 - [Table 6-1: Recommended Cost Estimate Summary](recommended-plan/#table-6-1-recommended-cost-estimate-summary)
 - [Table 6-2: Jurisdictional Cost Estimate Summary](recommended-plan/#table-6-2-jurisdictional-cost-estimate-summary)
 - [Table 7-1: Reach 1 Cost Estimate Summary](conceptual-design/#table-7-1-reach-1-cost-estimate-summary)
@@ -86,10 +71,7 @@
 ## List of Figures
 - [Figure 2-1: Vicinity Map](study-area-description/#figure-2-1-vicinity-map)
 - [Figure 2-2: Watershed Map](study-area-description/#figure-2-2-watershed-map)
-- [Figure 5-1: Alternative Plans: Minimum Crossing Improvements and Maintenance](#)
-- [Figure 5-2: Alternative Plans: 100-yr Conveyance](#)
-- [Figure 5-3: Alternative Plans: Combination Alternative](#)
-- [Figure 6-1: Recommended Plan](#)
+- [Figure 6-1: Recommended Plan](appendix/g/rec-plan-map)
 - [Figure 7-1: Master Plan Schematic](conceptual-design/#figure-7-1-master-plan-schematic)
 
 </div>

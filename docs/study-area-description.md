@@ -131,8 +131,9 @@ Leyden Creek.
 
 ###### Reach 1- Confluence with Ralston Creek to Leyden Creek Park
 
-[![Photo 1](assets/img/photo1.jpg){: .left-img }](assets/img/photo1.jpg){: target="_blank" }   
+[![Photo 1](assets/img/photo1.jpg){: .center-img }](assets/img/photo1.jpg){: target="_blank" }   
 *Leyden Creek at W 72^nd^ Ave.*
+{: .caption }
 
 Throughout Reach 1, Leyden Creek is bordered by residential land uses.
 This reach of Leyden Creek is approximately 0.7 miles long and primarily
@@ -143,8 +144,9 @@ Valley subdivisions.
 
 ###### Reach 2- Leyden Creek Park to Upstream of Alkire Street
 
-[![Photo 2](assets/img/photo2.jpg){: .left-img }](assets/img/photo2.jpg){: target="_blank" }  
+[![Photo 2](assets/img/photo2.jpg){: .center-img }](assets/img/photo2.jpg){: target="_blank" }  
 *Leyden Creek at W 75^th^ Pl.*
+{: .caption }
 
 Reach 2 stretches approximately 1 mile through residential development
 of large acre lots. The stream meanders through this reach crossing
@@ -154,8 +156,9 @@ Cameo Estates Unit 2 subdivision.
 
 ###### Reach 3 – Upstream of Alkire St to Leyden Lake
 
-[![Photo 3](assets/img/photo3.jpg){: .left-img }](assets/img/photo3.jpg){: target="_blank" }  
+[![Photo 3](assets/img/photo3.jpg){: .center-img }](assets/img/photo3.jpg){: target="_blank" }  
 *Leyden Creek upstream of Alkire St.*
+{: .caption }
 
 Reach 3, approximately 1.1 miles, contains the Indiana St. and Croke
 Canal crossings. Downstream of the crossings, the neighborhood of Cameo
@@ -163,8 +166,9 @@ Estates lies to the north with Youth Memorial Park to the south.
 
 ###### Reach 4 – Upstream of Leyden Lake
 
-[![Photo 4](assets/img/photo4.jpg){: .left-img }](assets/img/photo4.jpg){: target="_blank" }  
+[![Photo 4](assets/img/photo4.jpg){: .center-img }](assets/img/photo4.jpg){: target="_blank" }  
 *Leyden Creek at W 82^nd^ Ave.*
+{: .caption }
 
 Reach 4 consist primarily of a natural
 channel on undeveloped land. The creek meanders approximately 3.3 miles

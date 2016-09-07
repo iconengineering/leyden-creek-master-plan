@@ -2,7 +2,7 @@
 
 ## 6.1 Plan Description
 
-The recommended plan, shown in [Figure 6-1](#), is described below.
+The recommended plan, shown in [Figure 6-1](../appendix/g/rec-plan-map), is described below.
 
 #### 6.1.1 Reach 1 Recommended Plan
 
@@ -173,5 +173,4 @@ construction activities would occur during the migratory bird breeding
 season, a nest survey should be conducted immediately prior to
 construction.
 
-###### Figure 6-1 : Recommended Plan
-<div id="figure6-1" class="embedMap"></div>
+###### [Figure 6-1 : Recommended Plan](../appendix/g/rec-plan-map)

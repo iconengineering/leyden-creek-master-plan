@@ -172,9 +172,9 @@ will need to be protected, or relocated.
 
 -   Century Link
 
-*CLICK HERE TO VIEW REACH 1 MAP*
+[Reach 1 Map](../appendix/g/rec-plan-map/#14.89/39.8260/-105.1299)
 
-*CLICK HERE TO VIEW REACH 1 PROFILE*
+[Reach 1 Profile](#)
 
 ###### Table 7-1 : Reach 1 Cost Estimate Summary
 
@@ -700,9 +700,9 @@ At Alkire Street there are several known utilities:
 
 -   Xcel Gas
 
-*CLICK HERE TO VIEW REACH 2 MAP*
+[Reach 2 Map](../appendix/g/rec-plan-map/#15.12/39.8334/-105.1413)
 
-*CLICK HERE TO VIEW REACH 2 PROFILE*
+[Reach 2 Profile](#)
 
 ###### Table 7-2 : Reach 2 Cost Estimate Summary
 
@@ -1290,9 +1290,9 @@ There are several known utilities in the project reach:
 
 -   XCEL Electric
 
-*CLICK HERE TO VIEW REACH 3 MAP*
+[Reach 3 Map](../appendix/g/rec-plan-map/#15.06/39.8377/-105.1579)
 
-*CLICK HERE TO VIEW REACH 3 PROFILE*
+[Reach 3 Profile](#)
 
 ###### Table 7-3 : Reach 3 Cost Estimate Summary
 
@@ -1938,9 +1938,9 @@ Quaker Street:
 
 -   CenturyLink
 
-*CLICK HERE TO VIEW REACH 4 MAP*
+[Reach 4 Map](../appendix/g/rec-plan-map/#13.33/39.8428/-105.2002)
 
-*CLICK HERE TO VIEW REACH 4 PROFILE*
+[Reach 4 Profile](#)
 
 ###### Table 7-4 : Reach 4 Cost Estimate Summary
 
