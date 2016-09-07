@@ -251,4 +251,39 @@ $( document ).ready(function() {
     }, 'road-label-small');
   }); //map load
 
+// When a click event occurs near a place, open a popup at the location of
+// the feature, with description HTML from its properties.
+  map.on('click', function (e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['gages','storage'] });
+
+    if (!features.length) {
+        return;
+    }
+
+    var feature = features[0];
+
+    // Populate the popup and set its coordinates
+    // based on the feature found.
+    if (feature.layer.id == 'gages'){
+    var popup = new mapboxgl.Popup()
+        .setLngLat(feature.geometry.coordinates)
+        .setHTML('<b>' + feature.properties.Name + '</b>')
+        .addTo(map);
+    } else if (feature.layer.id == 'storage'){
+    var popup = new mapboxgl.Popup()
+        .setLngLat(feature.geometry.coordinates)
+        .setHTML('<b>' + feature.properties.LabelName + '</b>')
+        .addTo(map);
+    } else {
+      return;
+    }
+  });
+
+// Use the same approach as above to indicate that the symbols are clickable
+// by changing the cursor style to 'pointer'.
+  map.on('mousemove', function (e) {
+      var features = map.queryRenderedFeatures(e.point, { layers: ['gages','storage'] });
+      map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
+  });
+
 });
