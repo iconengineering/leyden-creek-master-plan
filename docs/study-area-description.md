@@ -33,7 +33,7 @@ analysis.
 The majority of the watershed is comprised of Type C soil as defined by
 the Natural Resources Conservation Service (NRCS). Type A, Type B, Type
 D soil are also present within the watershed. A soil map of the
-watershed can be found in [*APPENDIX B – Hydrologic Analysis*](#).
+watershed can be found in [*APPENDIX B – Hydrologic Analysis*](appendix-b).
 
 Although there are several detention facilities in the watershed, only
 four met criteria to be considered for flood reduction purposes in this
@@ -95,7 +95,7 @@ consistent with landfill cover and operations. This value also maintains
 consistency with hydrology submitted for ongoing FEMA update studies.
 The Pioneer Sand Company, located south of W. 82^nd^ Avenue, was assumed
 to have an open space impervious value. The existing conditions land use
-map can be found in [*APPENDIX B - Hydrologic Analysis*](#).
+map can be found in [*APPENDIX B - Hydrologic Analysis*](appendix-b).
 
 For the future land use conditions, impervious values anticipate future
 development based on land use and zoning information collected from
@@ -110,13 +110,13 @@ planned development areas and industrial locations.
 Through discussions with project sponsors,
 the area west of Highway 93, and south of Highway 72, zoned commercial
 and industrial in Arvada, was replaced with open space based on the land
-use plan. The future conditions land use map can be found in [*APPENDIX B - Hydrologic Analysis*](#).
+use plan. The future conditions land use map can be found in [*APPENDIX B - Hydrologic Analysis*](appendix-b).
 
 ## 2.3 Reach Description
 
 For the purposes of this study Leyden Creek was divided into four
 reaches. Descriptions of each reach are provided below and can be seen
-on maps provided in [*APPENDIX B – Hydrologic Analysis*](#).
+on maps provided in [*APPENDIX B – Hydrologic Analysis*](appendix-b).
 
 ###### Figure 2-2 : Watershed Map
 <div id="figure2-2" class="embedMap"></div>

@@ -48,7 +48,7 @@ minor portion of the watershed exceeded the 10 square mile threshold
 needed for adjustment. A summary of one-hour rainfall depths can be
 found below in Table 3-1.
 
-Complete rainfall distributions are provided in [*APPENDIX B - Hydrologic Analysis*](#).
+Complete rainfall distributions are provided in [*APPENDIX B - Hydrologic Analysis*](appendix-b).
 
 ###### Table 3-1 : 1-hr Rainfall Depths
 
@@ -64,7 +64,7 @@ Complete rainfall distributions are provided in [*APPENDIX B - Hydrologic Analys
 ## 3.3 Subwatershed Characteristics
 
 Subwatershed characteristics are summarized in the CUHP input table and
-subwatershed figure located in [*APPENDIX B - Hydrologic Analysis*](#).
+subwatershed figure located in [*APPENDIX B - Hydrologic Analysis*](appendix-b).
 
 #### 3.3.1 Subwatershed Delineation
 
@@ -127,7 +127,7 @@ then increased by 25% to better represent modeling conditions.
 Each conveyance element was determined by examining the contour data and
 comparing to previous studies. Storm sewers sizes and alignments were
 modeled based on the City of Arvada GIS files. A SWMM routing map and a
-SWMM schematic figure are included in [*APPENDIX B - Hydrologic Analysis*](#).
+SWMM schematic figure are included in [*APPENDIX B - Hydrologic Analysis*](appendix-b).
 
 #### 3.4.3 Detention Facilities
 
@@ -140,7 +140,7 @@ each facility were determined from the project topographic mapping.
 Release rates were developed from orifice and weir calculations
 reflecting the existing outlet structure configurations. Storage and
 discharge curves for the four detention facilities are provided in
-[*APPENDIX B - Hydrologic Analysis*](#).
+[*APPENDIX B - Hydrologic Analysis*](appendix-b).
 
 Leyden Lake was examined in further detail due to past discrepancies in
 the spillway elevation. The City of Arvada conducted a survey to
@@ -149,7 +149,7 @@ Dam As-Built drawings and project mapping. A conversion value of +2.2
 feet was provided by Arvada to convert from the City of Arvada datum to
 the project datum, NAVD 88. As-built elevations from the dam were
 adjusted to the project datum by adding 2.9 feet. Datum conversion
-information is included in [*APPENDIX B - Hydrologic Analysis*](#).
+information is included in [*APPENDIX B - Hydrologic Analysis*](appendix-b).
 
 ## 3.5 Previous Studies
 
@@ -207,8 +207,8 @@ in basins that had higher impervious values.
 
 Peak flow and runoff volume tables are included for both existing and
 future conditions for all design points, and all frequencies in
-[*APPENDIX B - Hydrologic Analysis*](#).. Hydrographs and peak flow profiles
-are also provided in [*APPENDIX B - Hydrologic Analysis*](#).
+[*APPENDIX B - Hydrologic Analysis*](appendix-b).. Hydrographs and peak flow profiles
+are also provided in [*APPENDIX B - Hydrologic Analysis*](appendix-b).
 
 ###### Table 3-2 : Previous Studies Reconciliation (100 yr. Flows)
 

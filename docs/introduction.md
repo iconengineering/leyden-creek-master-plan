@@ -46,7 +46,7 @@ Leyden Creek FHAD dated June 2004.
 
 Progress meetings were held to discuss the project status and
 methodology with stakeholders. Minutes for all meetings held during the
-project can be found in [*APPENDIX A - Project Correspondence*](#).
+project can be found in *APPENDIX A - Project Correspondence (PDF version only)*.
 
 **March 20, 2014 Project Kickoff Meeting**: The project sponsors were
 introduced and identified. An introduction to the project to understand

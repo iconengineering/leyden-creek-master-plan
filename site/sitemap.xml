@@ -43,6 +43,14 @@
 
     
     <url>
+     <loc>http://iconengineering.github.io/leyden-creek-master-plan//alternative-analysis/</loc>
+     <lastmod>2016-09-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>http://iconengineering.github.io/leyden-creek-master-plan//recommended-plan/</loc>
      <lastmod>2016-09-13</lastmod>
      <changefreq>daily</changefreq>
@@ -83,14 +91,6 @@
 
     
     <url>
-     <loc>http://iconengineering.github.io/leyden-creek-master-plan//appendix-e/</loc>
-     <lastmod>2016-09-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
      <loc>http://iconengineering.github.io/leyden-creek-master-plan//appendix-f/</loc>
      <lastmod>2016-09-13</lastmod>
      <changefreq>daily</changefreq>
@@ -100,6 +100,14 @@
     
     <url>
      <loc>http://iconengineering.github.io/leyden-creek-master-plan//appendix-g/</loc>
+     <lastmod>2016-09-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://iconengineering.github.io/leyden-creek-master-plan//appendix-h/</loc>
      <lastmod>2016-09-13</lastmod>
      <changefreq>daily</changefreq>
     </url>

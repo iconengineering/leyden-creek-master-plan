@@ -1,3 +1,4 @@
+![Photo 1](http://placehold.it/650x150){: style="width: 100%;margin-top: -4em;" }
 # Table of Contents
 <div class="toc">
 ### 1.0 [Introduction](introduction)
@@ -36,6 +37,9 @@
 - 4.2 [Flood Hazards](hydraulic-analysis/#42-flood-hazards)
 - 4.3 [Previous Analysis](hydraulic-analysis/#43-previous-analysis)
 
+### 5.0 [Alternative Analysis](alternative-analysis)
+*Not Included in Summary Report*
+
 ### 6.0 [Recommended Plan](recommended-plan)
 - 6.1 [Plan Description](recommended-plan/#61-plan-description)
 - 6.2 [Water Quality Impacts](recommended-plan/#62-water-quality-impacts)
@@ -71,7 +75,9 @@
 ## List of Figures
 - [Figure 2-1: Vicinity Map](study-area-description/#figure-2-1-vicinity-map)
 - [Figure 2-2: Watershed Map](study-area-description/#figure-2-2-watershed-map)
-- [Figure 6-1: Recommended Plan](appendix/g/rec-plan-map)
+- [Figure 6-1: Recommended Plan](recommended-plan/#figure-6-1-recommended-plan)
 - [Figure 7-1: Master Plan Schematic](conceptual-design/#figure-7-1-master-plan-schematic)
+- [Figure H-1: Master Plan Map](appendix/h/rec-plan-map){: target="_blank" }
+- [Figure H-2: Master Plan Profiles](appendix/h/MasterPlanProfiles.pdf){: target="_blank" }
 
 </div>

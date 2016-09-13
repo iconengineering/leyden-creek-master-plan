@@ -27,8 +27,8 @@ Alkire Street crossing was changed from a 36” CMP in the effective model
 to a 48” CMP based on information provided by the City of Arvada.
 
 Existing conditions floodplains can be seen in [*APPENDIX C - Hydraulic
-Analysis*](#) as part of the Problem Area Identification Map. The HEC-RAS
-cross sections can be seen in [*APPENDIX C - Hydraulic Analysis*](#).
+Analysis*](appendix-c) as part of the Problem Area Identification Map. The HEC-RAS
+cross sections can be seen in [*APPENDIX C - Hydraulic Analysis*](appendix-c).
 
 An inventory of structures in the existing floodplain can be found
 below.
@@ -71,7 +71,7 @@ Existing flood hazards closely resemble those presented by the effective
 FEMA flood hazard information and proposed updates associated with the
 FEMA RiskMap project. A summary of these flood hazards is presented in
 the Drainage Problem Areas Figure (Figure C-1) in [*APPENDIX C -
-Hydraulic Analysis*](#).
+Hydraulic Analysis*](appendix-c).
 
 #### 4.2.1 Flood Hazards of Reach 1 
 
@@ -225,7 +225,7 @@ City of Arvada, but it also limited access to Blue Mountain Estates
 during the flood. The City of Arvada wishes to maintain a higher level
 of capacity for Blue Mountain Road and reduce the potential for future
 damages in the area, as seen in the Drainage Problem Area Figures in
-[*APPENDIX C - Hydraulic Analysis*](#).
+[*APPENDIX C - Hydraulic Analysis*](appendix-c).
 
 ## 4.3 Previous Analysis
 

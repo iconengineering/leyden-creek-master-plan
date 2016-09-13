@@ -23,18 +23,11 @@
   </a>
   <div class="scrollable">
     <div class="wrapper">
-      {% if repo_name == "GitHub" and repo_url %}
+      {% if config.extra.pdfurl %}
         <ul class="repo">
           <li class="repo-download">
-            {% set version = config.extra.version | default("master") %}
-            <a href="{{ repo_url }}/archive/{{ version }}.zip" target="_blank" title="Download" data-action="download">
-              <i class="icon icon-download"></i> Download
-            </a>
-          </li>
-          <li class="repo-stars">
-            <a href="{{ repo_url }}/stargazers" target="_blank" title="Stargazers" data-action="star">
-              <i class="icon icon-star"></i> Stars
-              <span class="count">&ndash;</span>
+            <a href="{{ config.extra.pdfurl }}" target="_blank" title="Download" data-action="download">
+              <i class="icon icon-download"></i> Download PDF
             </a>
           </li>
         </ul>

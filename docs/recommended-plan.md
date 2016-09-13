@@ -2,7 +2,7 @@
 
 ## 6.1 Plan Description
 
-The recommended plan, shown in [Figure 6-1](appendix/g/rec-plan-map), is described below.
+The recommended plan, shown in [Figure 6-1](#figure-6-1-recommended-plan), is described below.
 
 #### 6.1.1 Reach 1 Recommended Plan
 
@@ -128,8 +128,8 @@ U.S., threatened and endangered species, and general wildlife use. Below
 is a summary of the resources found at the study area and
 recommendations or future actions necessary based on the current site
 conditions and federal, state, and local regulations. ERO’s entire
-assessment can be found in [*APPENDIX E – Wetland and Riparian
-Inventory*](#).
+assessment can be found in *APPENDIX E - Wetland and Riparian
+Inventory (PDF version only)*.
 
 #### 6.4.1 General 
 
@@ -173,4 +173,5 @@ construction activities would occur during the migratory bird breeding
 season, a nest survey should be conducted immediately prior to
 construction.
 
-###### [Figure 6-1 : Recommended Plan](appendix/g/rec-plan-map)
+###### Figure 6-1 : Recommended Plan
+<div id="figure6-1" class="embedMap"></div>

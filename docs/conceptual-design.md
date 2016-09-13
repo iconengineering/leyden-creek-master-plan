@@ -3,7 +3,7 @@
 ## 7.1 Plan Development Overview
 
 The Selected Plan letter from the project sponsors was issued on April
-29, 2015, and can be found in [*APPENDIX A - Project Correspondence*](#). The
+29, 2015, and can be found in *APPENDIX A - Project Correspondence (PDF version only)*. The
 Selected plan identifies the alternatives selected by the project
 sponsors to proceed into the Conceptual Design phase of the project. The
 Selected Plan generally followed the recommended plan alternatives, with
@@ -84,7 +84,7 @@ The Conceptual Design is described on a reach by reach basis in Sections
 7.2.1 through 7.2.4. Cost Estimates for the Selected Plan can be found
 in [Table 7-5: Cost Estimate Summary by Reach](#table-7-5-cost-estimate-summary-by-reach). Schematics for the
 Selected Plan can be found in [Figure 7-1](#figure-7-1-master-plan-schematic). Master Plan maps and
-profiles can be found in [*APPENDIX G*](#).
+profiles can be found in [*APPENDIX H*](appendix-h).
 
 Downstream of Leyden Lake a design slope of 0.45% was selected for
 stabilization of the main channel. Upstream of the Leyden Lake, a design
@@ -172,9 +172,9 @@ will need to be protected, or relocated.
 
 -   Century Link
 
-[Reach 1 Map](../appendix/g/rec-plan-map/#14.89/39.8260/-105.1299)
+[Reach 1 Map](../appendix/h/rec-plan-map/#14.89/39.8260/-105.1299){: target="_blank " }
 
-[Reach 1 Profile](#)
+[Reach 1 Profile](../appendix/h/MasterPlanProfiles.pdf){: target="_blank " }
 
 ###### Table 7-1 : Reach 1 Cost Estimate Summary
 
@@ -700,9 +700,9 @@ At Alkire Street there are several known utilities:
 
 -   Xcel Gas
 
-[Reach 2 Map](../appendix/g/rec-plan-map/#15.12/39.8334/-105.1413)
+[Reach 2 Map](../appendix/h/rec-plan-map/#15.12/39.8334/-105.1413){: target="_blank " }
 
-[Reach 2 Profile](#)
+[Reach 2 Profile](../appendix/h/MasterPlanProfiles.pdf){: target="_blank " }
 
 ###### Table 7-2 : Reach 2 Cost Estimate Summary
 
@@ -1290,9 +1290,9 @@ There are several known utilities in the project reach:
 
 -   XCEL Electric
 
-[Reach 3 Map](../appendix/g/rec-plan-map/#15.06/39.8377/-105.1579)
+[Reach 3 Map](../appendix/h/rec-plan-map/#15.06/39.8377/-105.1579){: target="_blank " }
 
-[Reach 3 Profile](#)
+[Reach 3 Profile](../appendix/h/MasterPlanProfiles.pdf){: target="_blank " }
 
 ###### Table 7-3 : Reach 3 Cost Estimate Summary
 
@@ -1938,9 +1938,9 @@ Quaker Street:
 
 -   CenturyLink
 
-[Reach 4 Map](../appendix/g/rec-plan-map/#13.33/39.8428/-105.2002)
+[Reach 4 Map](../appendix/h/rec-plan-map/#13.33/39.8428/-105.2002){: target="_blank " }
 
-[Reach 4 Profile](#)
+[Reach 4 Profile](../appendix/h/MasterPlanProfiles.pdf){: target="_blank " }
 
 ###### Table 7-4 : Reach 4 Cost Estimate Summary
 
@@ -2686,8 +2686,8 @@ U.S., threatened and endangered species, and general wildlife use. Below
 is a summary of the resources found at the study area and
 recommendations or future actions necessary based on the current site
 conditions and federal, state, and local regulations. ERO’s entire
-assessment can be found in [*APPENDIX E - Wetland and Riparian
-Inventory*](#).
+assessment can be found in *APPENDIX E - Wetland and Riparian
+Inventory (PDF version only)*.
 
 #### 7.6.1 General
 
