@@ -442,9 +442,9 @@ of the property and the actual land value provided by Jefferson County.</p>
 <h2 id="72-master-plan-description">7.2 Master Plan Description<a class="headerlink" href="#72-master-plan-description" title="Permanent link"></a></h2>
 <p>The Conceptual Design is described on a reach by reach basis in Sections
 7.2.1 through 7.2.4. Cost Estimates for the Selected Plan can be found
-in <a href="#">Table 7-5: Cost Estimate Summary by Reach</a>. Schematics for the
-Selected Plan can be found in <a href="#">Figure 7-1</a>. Master Plan maps and
-profiles can be found in <a href="#"><em>APPENDIX H</em></a> and <a href="#"><em>APPENDIX I</em></a> respectively.</p>
+in <a href="#table-7-5-cost-estimate-summary-by-reach">Table 7-5: Cost Estimate Summary by Reach</a>. Schematics for the
+Selected Plan can be found in <a href="#figure-7-1-master-plan-schematic">Figure 7-1</a>. Master Plan maps and
+profiles can be found in <a href="#"><em>APPENDIX G</em></a>.</p>
 <p>Downstream of Leyden Lake a design slope of 0.45% was selected for
 stabilization of the main channel. Upstream of the Leyden Lake, a design
 slope of 0.60% was selected. These values were chosen to in accordance
@@ -3386,6 +3386,38 @@ construction.</p>
     
       <script src="../assets/js/map7-1.js"></script>
     
+    
+      <script>
+        (function(i,s,o,g,r,a,m){
+          i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||
+          []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
+          m.parentNode.insertBefore(a,m)
+        })(window, document,
+          'script', '//www.google-analytics.com/analytics.js', 'ga');
+        /* General initialization */
+        ga('create', 'UA-66511604-1', 'iconengineering.github.io');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+        /* Track outbound links */
+        var buttons = document.querySelectorAll('a');
+        Array.prototype.map.call(buttons, function(item) {
+          if (item.host != document.location.host) {
+            item.addEventListener('click', function() {
+              var action = item.getAttribute('data-action') || 'follow';
+              ga('send', 'event', 'outbound', action, item.href);
+            });
+          }
+        });
+        /* Register handler to log search on blur */
+        var query = document.querySelector('.query');
+        query.addEventListener('blur', function() {
+          if (this.value) {
+            var path = document.location.pathname;
+            ga('send', 'pageview', path + '?q=' + this.value);
+          }
+        });
+      </script>
     
   </body>
 </html>
