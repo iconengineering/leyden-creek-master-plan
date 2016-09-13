@@ -82,9 +82,9 @@ of the property and the actual land value provided by Jefferson County.
 
 The Conceptual Design is described on a reach by reach basis in Sections
 7.2.1 through 7.2.4. Cost Estimates for the Selected Plan can be found
-in [Table 7-5: Cost Estimate Summary by Reach](#). Schematics for the
-Selected Plan can be found in [Figure 7-1](#). Master Plan maps and
-profiles can be found in [*APPENDIX H*](#) and [*APPENDIX I*](#) respectively.
+in [Table 7-5: Cost Estimate Summary by Reach](#table-7-5-cost-estimate-summary-by-reach). Schematics for the
+Selected Plan can be found in [Figure 7-1](#figure-7-1-master-plan-schematic). Master Plan maps and
+profiles can be found in [*APPENDIX G*](#).
 
 Downstream of Leyden Lake a design slope of 0.45% was selected for
 stabilization of the main channel. Upstream of the Leyden Lake, a design

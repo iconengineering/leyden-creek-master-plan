@@ -3,6 +3,7 @@ site_name: Leyden Creek Master Plan
 site_description: Authored by ICON Engineering for UDFCD
 site_author: ICON Engineering
 site_url: http://iconengineering.github.io/leyden-creek-master-plan/
+google_analytics: ['UA-66511604-1', 'iconengineering.github.io']
 
 # Repository
 repo_name: GitHub
