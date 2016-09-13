@@ -69,6 +69,25 @@ map.on('style.load', function () {
         type: 'geojson',
         "data": '../../../assets/js/geojson/udfcdStreamGages.geojson'
     });
+    map.addSource('counties', {
+        type: 'geojson',
+        "data": 'https://cdn.rawgit.com/ebendennis/dd38752d0d9f5d9227f718f90a22fe8c/raw/1e8496d81069ce94528cd97c6970422800419cd8/ColoradoCountiesLn.geojson'
+    });
+    map.addLayer({
+        'id': 'counties',
+        'type': 'line',
+        'source': 'counties','layout': {
+            'line-join': 'miter',
+            'line-cap': 'butt'
+        },
+        'paint': {
+          'line-width': {
+              "stops": [[15, 1], [17, 2], [19, 4]]
+          },
+            'line-color': '#fff',
+            'line-dasharray': [3,2]
+        }
+    }, 'road-label-small');
     map.addLayer({
         'id': 'arvadaFill',
         'type': 'fill',

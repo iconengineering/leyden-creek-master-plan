@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset='utf-8' />
-    <title>LCM Rec Plan</title>
+    <title>LCM Master Plan</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.css' rel='stylesheet' />
@@ -36,7 +36,7 @@
   <header class="demo-header mdl-layout__header  mdl-color--blue-grey-700 mdl-color-text--blue-grey-50">
     <div class="mdl-layout__header-row">
     <span class="mdl-layout-title"><a href="../../../" class="title-link">Leyden Creek Master Plan</a>
-    <span class="mdl-color-text--blue-grey-200"> Recommended Plan</span></span>
+    <span class="mdl-color-text--blue-grey-200"> Conceptual Plan</span></span>
       <div class="mdl-layout-spacer"></div>
         <button class="mdl-button mdl-js-button mdl-button--icon mdl-color-text--blue-grey-400 mdl-cell--hide-tablet" id="hdrbtn">
           <i class="material-icons">more_vert</i>
@@ -193,6 +193,19 @@
               </span>
             </span>
           </li>
+          <li class="demo-list-item mdl-list__item mdl-list__item--two-line mdl-color-text--blue-grey-100">
+            <span class="mdl-list__item-primary-action">
+              <label class="mdl-switch mdl-js-switch label-ff" for="wetlands">
+                <input type="checkbox" id="wetlands" class="mdl-switch__input layer-off" onclick="toggleLayer('wetland')" />
+              </label>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+              Wetlands
+              <span class="mdl-list__item-secondary-info mdl-color-text--blue-grey-400 layer-description">
+              Wetland Mitigation
+              </span>
+            </span>
+          </li>
           <li class="mdl-list__item layer-heading">
             <span class="mdl-list__item-secondary-content">
               <span class="mdl-list__item-secondary-info mdl-color-text--blue-grey-400">
@@ -249,19 +262,6 @@
               Structures
               <span class="mdl-list__item-secondary-info mdl-color-text--blue-grey-400 layer-description">
               Structures in Effective Floodplain
-              </span>
-            </span>
-          </li>
-          <li class="demo-list-item mdl-list__item mdl-list__item--two-line mdl-color-text--blue-grey-100">
-            <span class="mdl-list__item-primary-action">
-              <label class="mdl-switch mdl-js-switch label-on" for="wetlands">
-                <input type="checkbox" id="wetlands" class="mdl-switch__input layer-on" onclick="toggleLayer('wetland')" checked />
-              </label>
-            </span>
-            <span class="mdl-list__item-secondary-content">
-              Wetlands
-              <span class="mdl-list__item-secondary-info mdl-color-text--blue-grey-400 layer-description">
-              Wetland Mitigation
               </span>
             </span>
           </li>
