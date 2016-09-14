@@ -69,6 +69,10 @@ map.on('style.load', function () {
         type: 'geojson',
         "data": '../../../assets/js/geojson/udfcdStreamGages.geojson'
     });
+    map.addSource('callouts', {
+        type: 'geojson',
+        "data": '../../../assets/js/geojson/EPlanCallouts.geojson'
+    });
     map.addSource('counties', {
         type: 'geojson',
         "data": 'https://cdn.rawgit.com/ebendennis/dd38752d0d9f5d9227f718f90a22fe8c/raw/1e8496d81069ce94528cd97c6970422800419cd8/ColoradoCountiesLn.geojson'
@@ -165,6 +169,34 @@ map.on('style.load', function () {
                     ['X', '#BBDEFB']
                     ]
                 }
+        }
+    }, 'road-label-small');
+    map.addLayer({
+        'id': 'callouts',
+        'type': 'fill',
+        'source': 'callouts',
+        'layout': { 'visibility': 'visible'},
+        'paint': {
+            'fill-color': '#fff',
+            'fill-opacity': .01
+        }
+    }, 'road-label-small');
+    map.addLayer({
+        'id': 'callouts-hover',
+        'type': 'line',
+        'source': 'callouts',
+
+        'filter': ['==','description',''],
+        'layout': {
+            'line-join': 'miter',
+            'line-cap': 'butt'
+        },
+        'paint': {
+          'line-width': {
+              "stops": [[15, 1], [17, 2], [19, 4]]
+          },
+            'line-color': '#fff',
+            'line-dasharray': [3,2]
         }
     }, 'road-label-small');
     map.addLayer({
@@ -484,7 +516,7 @@ map.on('style.load', function () {
 // When a click event occurs near a place, open a popup at the location of
 // the feature, with description HTML from its properties.
   map.on('click', function (e) {
-    var features = map.queryRenderedFeatures(e.point, { layers: ['gages','storage'] });
+    var features = map.queryRenderedFeatures(e.point, { layers: ['gages','storage','callouts'] });
 
     if (!features.length) {
         return;
@@ -504,6 +536,11 @@ map.on('style.load', function () {
         .setLngLat(feature.geometry.coordinates)
         .setHTML('<b>' + feature.properties.LabelName + '</b>')
         .addTo(map);
+    } else if (feature.layer.id == 'callouts'){
+    var popup = new mapboxgl.Popup()
+        .setLngLat(e.lngLat)
+        .setHTML('<div>' + feature.properties.description + '</div')
+        .addTo(map);
     } else {
       return;
     }
@@ -512,9 +549,18 @@ map.on('style.load', function () {
 // Use the same approach as above to indicate that the symbols are clickable
 // by changing the cursor style to 'pointer'.
   map.on('mousemove', function (e) {
-      var features = map.queryRenderedFeatures(e.point, { layers: ['gages','storage'] });
+      var features = map.queryRenderedFeatures(e.point, { layers: ['gages','storage','callouts'] });
+      if (features.length) {
+            map.setFilter("callouts-hover", ["==", "description", features[0].properties.description]);
+          } else {
+            map.setFilter("callouts-hover", ["==", "description", ""]);
+          }
       map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
   });
+
+  map.on("mouseout", function() {
+        map.setFilter("callouts-hover", ["==", "description", ""]);
+    });
 
 map.addControl(new mapboxgl.Navigation({position: 'top-left'}));
 
