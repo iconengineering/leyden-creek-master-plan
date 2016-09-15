@@ -1,4 +1,5 @@
-![Photo 1](http://placehold.it/650x150){: style="width: 100%;margin-top: -4em;" }
+![Photo 1](assets/img/cover.png){: style="width: 100%;margin-top: -4em;" }
+![Icon logo](assets/img/icon-logo-horizontal-dark.png){: style="width: 30%;padding-top:1em;" }
 # Table of Contents
 <div class="toc">
 ### 1.0 [Introduction](introduction)
