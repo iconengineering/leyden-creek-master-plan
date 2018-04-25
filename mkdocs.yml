@@ -43,7 +43,7 @@ extra_css:
 
 # Options
 extra:
-  pdfurl: 'http://www.iconeng.com/wordpress/wp-content/uploads/2015/09/Leyden-Creek-Major-Drainageway-Plan-2015.pdf'
+  pdfurl: 'https://s3-us-west-2.amazonaws.com/iconeng/pdfs/leyden-creek/Leyden+Creek+Major+Drainageway+Plan+2015.pdf'
   logo: assets/img/UDFCD_NEW.jpg
   author:
     github: iconengineering
